@@ -1,0 +1,25 @@
+Code,Name,G1,G2,G3,IRDuration
+IOZ,iShares Core S&P/ASX 200 ETF,Australian Shares,Core,,
+VGS,Vanguard MSCI Index International Shares ETF,International Shares,Developed ,AUD,
+VGAD,Vanguard MSCI Index International Shares (hedged) ETF,International Shares,Developed ,Local,
+IVV,iShares S&P 500 ETF,International Shares,US,AUD,
+IHVV,iShares S&P 500 AUD Hedged ETF,International Shares,US,USD,
+IEU,iShares Europe ETF,International Shares,Europe,AUD,
+VEQ,Vanguard FTSE Europe Shares ETF,International Shares,Europe,AUD,
+IJP,iShares MSCI Japan ETF,International Shares,Japan,AUD,
+IEM,iShares MSCI Emerging Markets ETF,International Shares,Emerging,AUD,
+IZZ,iShares China Large-Cap ETF,International Shares,Emerging,AUD,
+WVOL,iShares Edge MSCI World Min Vol ETF,International Shares,Developed ,AUD,
+VBLD,Vanguard Global Infrastructure Index ETF,Real Assets,,,
+IAF,iShares Core Composite Bond ETF,Long Duration,,,5.8
+ILB,iShares Government Inflation ETF,Long Duration,,,6.7
+FLOT,VanEck Australian Floating Rate ETF,Short Duration,,,0.15
+BHYB,BetaShares Australian Major Bank Hybrids Index ETF,Short Duration,,,0.2
+VBND,Vanguard Global Agg Bond Index (hedged) ETF,Long Duration,,,8.2
+AESG,iShares Global Aggregate Bond ESG (AUD Hedged) ETF,Long Duration,,,8.1
+IGB,iShares Treasury ETF,Long Duration,,,7.8
+IHCB,iShares Core Global Corporate Bond (hedged) ETF,Long Duration,,,6.1
+IHHY,iShares Global High Yield Bond (hedged) ETF,Long Duration,,,5.2
+IHEB,iShares USD EM Bond (hedged) ETF,Long Duration,,,4.5
+ISEC,iShares Enhanced Cash ETF,Short Duration,,,0.3
+BILL,iShares Core Cash ETF,Cash,,,0.15
