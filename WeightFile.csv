@@ -231,13 +231,13 @@ ATC70A2,30-Jun-20,Reference,IAF-AU,12.5,Aus FI
 ATC70A2,30-Jun-20,Reference,VBND-AU,12.5,Int IF
 ATC70A2,30-Jun-20,Reference,BILL-AU,5,Cash
 ,,,,,
-ATC70A2,30-Jun-20,Strategic,IOZ-AU,42,Aus Eq
-ATC70A2,30-Jun-20,Strategic,VGS-AU,40,Int Eq
-ATC70A2,30-Jun-20,Strategic,BLK4709AU,,Aus REITs
-ATC70A2,30-Jun-20,Strategic,VBLD-AU,,Int infra
-ATC70A2,30-Jun-20,Strategic,IAF-AU,5,Aus FI
-ATC70A2,30-Jun-20,Strategic,VBND-AU,5,Int IF
-ATC70A2,30-Jun-20,Strategic,FLOT-AU,,FRNs
+ATC70A2,30-Jun-20,Strategic,IOZ-AU,39,Aus Eq
+ATC70A2,30-Jun-20,Strategic,VGS-AU,35,Int Eq
+ATC70A2,30-Jun-20,Strategic,BLK4709AU,3,Aus REITs
+ATC70A2,30-Jun-20,Strategic,VBLD-AU,5,Int infra
+ATC70A2,30-Jun-20,Strategic,IAF-AU,4,Aus FI
+ATC70A2,30-Jun-20,Strategic,VBND-AU,4,Int IF
+ATC70A2,30-Jun-20,Strategic,FLOT-AU,2,FRNs
 ATC70A2,30-Jun-20,Strategic,BILL-AU,8,Cash
 ,,,,,
 ATC70A2,8-Jan-21,Strategic,IOZ-AU,40,
