@@ -231,7 +231,7 @@ ATC70A2,30-Jun-19,Reference,VBND-AU,12.5,Int IF
 ATC70A2,30-Jun-19,Reference,BILL-AU,5,Cash
 ,,,,,
 ATC70A2,30-Jun-19,Objective,ATCHBM00001_300,100,CPI
-ATC70A2,30-Jun-19,Peer,ATCHBM00023,100,AMI Mixed Asset - Balanced
+ATC70A2,30-Jun-19,Peer,ATCHBM00026,100,AMI Mixed Asset - Growth
 ,,,,,
 ATC70A2,30-Jun-19,Strategic,IOZ-AU,39,Aus Eq
 ATC70A2,30-Jun-19,Strategic,VGS-AU,35,Int Eq
