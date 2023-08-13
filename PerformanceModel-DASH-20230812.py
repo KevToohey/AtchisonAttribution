@@ -76,14 +76,14 @@ from dateutil.relativedelta import relativedelta
 #import ipywidgets as widgets
 #from ipywidgets import interact, interact_manual
 
-import chart_studio.plotly as py
+#import chart_studio.plotly as py
 import plotly.figure_factory as ff
 import plotly.graph_objects as go
-from  plotly.offline import plot
-import cufflinks as cf
-cf.go_offline()
-from plotly.offline import download_plotlyjs, init_notebook_mode, plot,iplot
-init_notebook_mode(connected='true')
+#from  plotly.offline import plot
+#import cufflinks as cf
+#cf.go_offline()
+#from plotly.offline import download_plotlyjs, init_notebook_mode, plot,iplot
+#init_notebook_mode(connected='true')
 
 import plotly.express as px  # (version 4.7.0 or higher)
 from dash import Dash, dcc, html, Input, Output  # pip install dash (version 2.0.0 or higher)
