@@ -4,5 +4,4 @@ gunicorn
 matplotlib
 seaborn
 datetime
-calendar
 plotly.express
