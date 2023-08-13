@@ -89,6 +89,7 @@ import plotly.express as px  # (version 4.7.0 or higher)
 from dash import Dash, dcc, html, Input, Output  # pip install dash (version 2.0.0 or higher)
 
 app = Dash(__name__)
+server = app.server
 
 from IPython.display import display, clear_output
 from IPython.display import HTML
