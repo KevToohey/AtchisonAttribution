@@ -5,4 +5,4 @@ matplotlib
 seaborn
 datetime
 calendar
-import plotly.express as px  
+plotly.express
