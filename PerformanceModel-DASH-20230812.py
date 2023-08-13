@@ -73,8 +73,8 @@ import datetime as dt
 #import calendar
 from pandas.tseries.offsets import MonthEnd
 from dateutil.relativedelta import relativedelta
-import ipywidgets as widgets
-from ipywidgets import interact, interact_manual
+#import ipywidgets as widgets
+#from ipywidgets import interact, interact_manual
 
 import chart_studio.plotly as py
 import plotly.figure_factory as ff
@@ -91,8 +91,8 @@ from dash import Dash, dcc, html, Input, Output  # pip install dash (version 2.0
 app = Dash(__name__)
 server = app.server
 
-from IPython.display import display, clear_output
-from IPython.display import HTML
+#from IPython.display import display, clear_output
+#from IPython.display import HTML
 
 pd.options.display.max_columns = 40
 pd.options.display.max_rows = 40
