@@ -1,18 +1,32 @@
 PortfolioCode,Date,Group,GroupValue,Min,Max
-ATC70A,30-Jun-20,G1,Australian Shares,20,45
-ATC70A,30-Jun-20,G1,International Shares,14,45
-ATC70A,30-Jun-20,G1,Real Assets,0,35
-ATC70A,30-Jun-20,G1,Alternatives,0,35
-ATC70A,30-Jun-20,G1,Long Duration,0,50
-ATC70A,30-Jun-20,G1,Short Duration,0,50
-ATC70A,30-Jun-20,G1,Cash,1,12
+Atchison70ACTIVE,30-Jun-20,G1,Australian Shares,20,45
+Atchison70ACTIVE,30-Jun-20,G1,International Shares,14,45
+Atchison70ACTIVE,30-Jun-20,G1,Real Assets,0,35
+Atchison70ACTIVE,30-Jun-20,G1,Alternatives,0,35
+Atchison70ACTIVE,30-Jun-20,G1,Long Duration,0,50
+Atchison70ACTIVE,30-Jun-20,G1,Short Duration,0,50
+Atchison70ACTIVE,30-Jun-20,G1,Cash,1,12
 ,,,,,
-ATC70ETF,30-Jun-20,G1,Australian Shares,20,45
+Atchison70ETF,30-Jun-20,G1,Australian Shares,20,55
+Atchison70ETF,30-Jun-20,G1,International Shares,14,45
+Atchison70ETF,30-Jun-20,G1,Real Assets,0,25
+Atchison70ETF,30-Jun-20,G1,Alternatives,0,25
+Atchison70ETF,30-Jun-20,G1,Long Duration,0,50
+Atchison70ETF,30-Jun-20,G1,Short Duration,0,50
+Atchison70ETF,30-Jun-20,G1,Cash,1,15
 ,,,,,
-ATC70A3,30-Jun-20,G1,Australian Shares,20,45
-ATC70A3,30-Jun-20,G1,International Shares,14,45
-ATC70A3,30-Jun-20,G1,Real Assets,0,35
-ATC70A3,30-Jun-20,G1,Alternatives,0,35
-ATC70A3,30-Jun-20,G1,Long Duration,0,50
-ATC70A3,30-Jun-20,G1,Short Duration,0,50
-ATC70A3,30-Jun-20,G1,Cash,1,12
+Atchison55ACTIVE,30-Jun-20,G1,Australian Shares,20,45
+Atchison55ACTIVE,30-Jun-20,G1,International Shares,14,45
+Atchison55ACTIVE,30-Jun-20,G1,Real Assets,0,35
+Atchison55ACTIVE,30-Jun-20,G1,Alternatives,0,35
+Atchison55ACTIVE,30-Jun-20,G1,Long Duration,0,50
+Atchison55ACTIVE,30-Jun-20,G1,Short Duration,0,50
+Atchison55ACTIVE,30-Jun-20,G1,Cash,1,12
+,,,,,
+Atchison55ETF,30-Jun-20,G1,Australian Shares,20,55
+Atchison55ETF,30-Jun-20,G1,International Shares,14,45
+Atchison55ETF,30-Jun-20,G1,Real Assets,0,25
+Atchison55ETF,30-Jun-20,G1,Alternatives,0,25
+Atchison55ETF,30-Jun-20,G1,Long Duration,0,50
+Atchison55ETF,30-Jun-20,G1,Short Duration,0,50
+Atchison55ETF,30-Jun-20,G1,Cash,1,15
