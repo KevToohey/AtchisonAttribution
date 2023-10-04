@@ -1,11 +1,11 @@
 PortfolioCode,Date,Group,GroupValue,Min,Max
 Atchison55ACTIVE,30-Jun-20,G1,Australian Shares,10,40
 Atchison55ACTIVE,30-Jun-20,G1,International Shares,10,40
-Atchison55ACTIVE,30-Jun-20,G1,Real Assets,0,10
+Atchison55ACTIVE,30-Jun-20,G1,Real Assets,5,15
 Atchison55ACTIVE,30-Jun-20,G1,Alternatives,2,15
 Atchison55ACTIVE,30-Jun-20,G1,Long Duration,5,45
 Atchison55ACTIVE,30-Jun-20,G1,Floating Rate,5,35
-Atchison55ACTIVE,30-Jun-20,G1,Cash,5,20
+Atchison55ACTIVE,30-Jun-20,G1,Cash,2,10
 ,,,,,
 Atchison55ACTIVE,30-Jun-20,G2,Australian Shares,10,40
 Atchison55ACTIVE,30-Jun-20,G2,Global Shares,10,40
@@ -22,9 +22,9 @@ Atchison55ACTIVE,30-Jun-20,G3,Global Fixed Interest,0,65
 Atchison55ACTIVE,30-Jun-20,G3,Alternatives (Defensive),0,30
 Atchison55ACTIVE,30-Jun-20,G3,Cash,3,20
 ,,,,,
-Atchison55ETF,30-Jun-20,G1,Australian Shares,10,40
-Atchison55ETF,30-Jun-20,G1,International Shares,10,40
-Atchison55ETF,30-Jun-20,G1,Real Assets,0,10
+Atchison55ETF,30-Jun-20,G1,Australian Shares,10,45
+Atchison55ETF,30-Jun-20,G1,International Shares,10,45
+Atchison55ETF,30-Jun-20,G1,Real Assets,0,15
 Atchison55ETF,30-Jun-20,G1,Alternatives,0,15
 Atchison55ETF,30-Jun-20,G1,Long Duration,5,45
 Atchison55ETF,30-Jun-20,G1,Floating Rate,5,35
@@ -37,13 +37,13 @@ Atchison55ETF,30-Jun-20,G2,Australian Fixed Interest,0,65
 Atchison55ETF,30-Jun-20,G2,Global Fixed Interest,0,65
 Atchison55ETF,30-Jun-20,G2,Cash,3,18
 ,,,,,
-Atchison70ACTIVE,30-Jun-20,G1,Australian Shares,15,45
-Atchison70ACTIVE,30-Jun-20,G1,International Shares,15,50
-Atchison70ACTIVE,30-Jun-20,G1,Real Assets,0,10
-Atchison70ACTIVE,30-Jun-20,G1,Alternatives,2,22
-Atchison70ACTIVE,30-Jun-20,G1,Long Duration,0,30
-Atchison70ACTIVE,30-Jun-20,G1,Floating Rate,5,15
-Atchison70ACTIVE,30-Jun-20,G1,Cash,2,20
+Atchison70ACTIVE,30-Jun-20,G1,Australian Shares,18,35
+Atchison70ACTIVE,30-Jun-20,G1,International Shares,15,35
+Atchison70ACTIVE,30-Jun-20,G1,Real Assets,10,15
+Atchison70ACTIVE,30-Jun-20,G1,Alternatives,10,15
+Atchison70ACTIVE,30-Jun-20,G1,Long Duration,5,25
+Atchison70ACTIVE,30-Jun-20,G1,Floating Rate,2,20
+Atchison70ACTIVE,30-Jun-20,G1,Cash,2,10
 ,,,,,
 Atchison70ACTIVE,30-Jun-20,G2,Australian Shares,20,45
 Atchison70ACTIVE,30-Jun-20,G2,Global Shares,14,45
@@ -60,13 +60,13 @@ Atchison70ACTIVE,30-Jun-20,G3,Global Fixed Interest,0,50
 Atchison70ACTIVE,30-Jun-20,G3,Alternatives (Defensive),0,30
 Atchison70ACTIVE,30-Jun-20,G3,Cash,1,15
 ,,,,,
-Atchison70ETF,30-Jun-20,G1,Australian Shares,15,45
-Atchison70ETF,30-Jun-20,G1,International Shares,15,50
-Atchison70ETF,30-Jun-20,G1,Real Assets,0,10
-Atchison70ETF,30-Jun-20,G1,Alternatives,0,22
-Atchison70ETF,30-Jun-20,G1,Long Duration,0,30
-Atchison70ETF,30-Jun-20,G1,Floating Rate,5,15
-Atchison70ETF,30-Jun-20,G1,Cash,2,20
+Atchison70ETF,30-Jun-20,G1,Australian Shares,18,40
+Atchison70ETF,30-Jun-20,G1,International Shares,15,40
+Atchison70ETF,30-Jun-20,G1,Real Assets,10,15
+Atchison70ETF,30-Jun-20,G1,Alternatives,0,15
+Atchison70ETF,30-Jun-20,G1,Long Duration,5,25
+Atchison70ETF,30-Jun-20,G1,Floating Rate,2,20
+Atchison70ETF,30-Jun-20,G1,Cash,2,10
 ,,,,,
 Atchison70ETF,30-Jun-20,G2,Australian Shares,20,55
 Atchison70ETF,30-Jun-20,G2,Global Shares,14,45
@@ -77,16 +77,16 @@ Atchison70ETF,30-Jun-20,G2,Cash,1,15
 ,,,,,
 Atchison85ACTIVE,30-Jun-20,G1,Australian Shares,20,50
 Atchison85ACTIVE,30-Jun-20,G1,International Shares,20,55
-Atchison85ACTIVE,30-Jun-20,G1,Real Assets,0,10
-Atchison85ACTIVE,30-Jun-20,G1,Alternatives,2,25
+Atchison85ACTIVE,30-Jun-20,G1,Real Assets,5,15
+Atchison85ACTIVE,30-Jun-20,G1,Alternatives,10,20
 Atchison85ACTIVE,30-Jun-20,G1,Long Duration,0,15
 Atchison85ACTIVE,30-Jun-20,G1,Floating Rate,0,15
-Atchison85ACTIVE,30-Jun-20,G1,Cash,2,20
+Atchison85ACTIVE,30-Jun-20,G1,Cash,2,10
 ,,,,,
 Atchison85ETF,30-Jun-20,G1,Australian Shares,20,50
 Atchison85ETF,30-Jun-20,G1,International Shares,20,55
-Atchison85ETF,30-Jun-20,G1,Real Assets,0,10
-Atchison85ETF,30-Jun-20,G1,Alternatives,0,25
+Atchison85ETF,30-Jun-20,G1,Real Assets,0,15
+Atchison85ETF,30-Jun-20,G1,Alternatives,0,20
 Atchison85ETF,30-Jun-20,G1,Long Duration,0,15
 Atchison85ETF,30-Jun-20,G1,Floating Rate,0,15
-Atchison85ETF,30-Jun-20,G1,Cash,2,20
+Atchison85ETF,30-Jun-20,G1,Cash,2,10
