@@ -1,350 +1,350 @@
-﻿Code,LocalCode,Name,G0,G1,G2,G3,G4,G5,G6,PeerGroup,OptimiserCategory,Type,MCap$,MCapDate,PERatio,EPSGrowth,IRDuration,Hurdle,E-score,S-score,G-score,ESG-score,Controversy-score,Controversy-Items,,Citicode
-IOZ-AU,,iShares Core S&P/ASX 200 ETF,Growth,Australian Shares,Australian Shares,Australian Shares,ETF Index,Core,,Australia Large Blend Equity,Australian Equities,ETF,,,,,,,,,,,,,,G1ED
-VGS-AU,,Vanguard MSCI Index International Shares ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Developed ,AUD,World Large Blend Equity,International Equities - Unhedged,ETF,,,,,,,,,,,,,,MQVY
-VGAD-AU,,Vanguard MSCI Index International Shares (hedged) ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Developed ,Local,World Currency Hedged Equity,International Equities - Hedged,ETF,,,,,,,,,,,,,,M7YI
-IVV-AU,,iShares S&P 500 ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,US,AUD,World Other Equity,International Equities - Unhedged,ETF,,,,,,,,,,,,,,K49D
-IHVV-AU,,iShares S&P 500 AUD Hedged ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,US,USD,World Other Equity,International Equities - Unhedged,ETF,,,,,,,,,,,,,,NSHL
-IEU-AU,,iShares Europe ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Europe,AUD,Europe Equity,International Equities - Unhedged,ETF,,,,,,,,,,,,,,K49G
-VEQ-AU,,Vanguard FTSE Europe Shares ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Europe,AUD,Europe Equity,International Equities - Unhedged,ETF,,,,,,,,,,,,,,MWZQ
-IJP-AU,,iShares MSCI Japan ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Japan,AUD,World Other Equity,International Equities - Unhedged,ETF,,,,,,,,,,,,,,K49L
-IEM-AU,,iShares MSCI Emerging Markets ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Emerging,AUD,Emerging Markets Equity,International Equities - Emerging,ETF,,,,,,,,,,,,,,K49J
-IZZ-AU,,iShares China Large-Cap ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Emerging,AUD,Asia Pacific ex Japan Equity,International Equities - Unhedged,ETF,,,,,,,,,,,,,,K49C
-WVOL-AU,,iShares Edge MSCI World Min Vol ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Developed ,AUD,World Large Blend Equity,International Equities - Unhedged,ETF,,,,,,,,,,,,,,NSHQ
-VBLD-AU,,Vanguard Global Infrastructure Index ETF,Growth,Real Assets,Alternatives,Alternatives (Growth),ETF Index,,,Global Infrastructure,Global Unlisted Infrastructure,ETF,,,,,,,,,,,,,,PPY2
-IAF-AU,,iShares Core Composite Bond ETF,Defensive,Long Duration,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Australian Bonds,Australian Fixed Interest,ETF,,,,,5.8,,,,,,,,,G1EH
-ILB-AU,,iShares Government Inflation ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Inflation linked Bonds,Inflation Linked Government Bonds,ETF,,,,,6.7,,,,,,,,,G1EI
-FLOT-AU,,VanEck Australian Floating Rate ETF,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Diversified Credit,Floating High Yield Credit,ETF,,,,,0.15,,,,,,,,,O64U
-BHYB-AU,,BetaShares Australian Major Bank Hybrids Index ETF,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Global Bonds ,International Fixed Interest,ETF,,,,,0.2,,,,,,,,,WCIX
-VBND-AU,,Vanguard Global Agg Bond Index (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Global Bonds ,International Fixed Interest,ETF,,,,,8.2,,,,,,,,,O8LC
-AESG-AU,,iShares Global Aggregate Bond ESG (AUD Hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Global Bonds ,International Fixed Interest,ETF,,,,,8.1,,,,,,,,,YNPV
-IGB-AU,,iShares Treasury ETF,Defensive,Long Duration,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Australian Bonds,Australian Fixed Interest,ETF,,,,,7.8,,,,,,,,,G1EJ
-IHCB-AU,,iShares Core Global Corporate Bond (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Diversified Credit,Floating High Yield Credit,ETF,,,,,6.1,,,,,,,,,MXCD
-IHHY-AU,,iShares Global High Yield Bond (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Yield Credit Equity,Floating High Yield Credit,ETF,,,,,5.2,,,,,,,,,MXCE
-IHEB-AU,,iShares USD EM Bond (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Global Bonds ,International Fixed Interest,ETF,,,,,4.5,,,,,,,,,NSHM
-ISEC-AU,,iShares Enhanced Cash ETF,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Domestic Cash,Cash,ETF,,,,,0.3,,,,,,,,,O0HC
-BILL-AU,,iShares Core Cash ETF,Defensive,Cash,Cash,Cash,ETF Index,,,Domestic Cash,Cash,ETF,,,,,0.15,,,,,,,,,O0HD
-AUD,,Bank Account,Defensive,Cash,Cash,Cash,ETF Index,,,Domestic Cash,Cash,Acc,,,,,,,,,,,,,,
-HOW2217AU,,Merlon Concentrated Australian Share Fund,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Large Blend Equity,Australian Equities,MF,,,,,,,,,,,,,,PJL7
-SCH0101AU,,Schroder Australian Equity Fund W Class,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Large Blend Equity,Australian Equities,MF,,,,,,,,,,,,,,EOU3
-AAP5529AU,,Ausbil Australian SmallCap Fund,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Mid Small Blend Equity,Australian Equities - Small Cap,MF,,,,,,,,,,,,,,R2JU
-CNA0812AU,,Invesco Wholesale Australian Smaller Companies,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Mid Small Blend Equity,Australian Equities - Small Cap,MF,,,,,,,,,,,,,,LXV5
-ALR2783AU,,Australian Eagle Trust,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Large Blend Equity,Australian Equities,MF,,,,,,,,,,,,,,P9IY
-HOW0035AU,,Greencape High Conviction Fund,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Large Growth Equity,Australian Equities,MF,,,,,,,,,,,,,,L1M8
-PIM0028AU,,DNR Capital Australian Equities High Conviction Fund,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Large Blend Equity,Australian Equities,MF,,,,,,,,,,,,,,MFGP
-DDH0002AU,,DDH Selector Australian Equities,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Mid Small Growth Equity,Australian Equities - Small Cap,MF,,,,,,,,,,,,,,LQC5
-ANT0002AU,,Fairview Equity Partners Emerging Companies Fund,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Mid Small Growth Equity,Australian Equities - Small Cap,MF,,,,,,,,,,,,,,L9O8
-RFA0818AU,,Pendal Australian Share Fund,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Large Blend Equity,Australian Equities,MF,,,,,,,,,,,,,,LTD7
-ASX6124AU,,Auscap Long Short Australian Equities,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Long Short Equity,Australian Equities,MF,,,,,,,,,,,,,,PWZ6
-VAE-AU,,Vanguard FTSE Asia ex Japan Shares Index ETF,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,Asia Pacific ex Japan Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,MYBH
-ETL7377AU,,GQG Partners Global Equity Fund - A Class,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Large Growth Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,Q62M
-HOW6479AU,,Ox Capital Dynamic Emerging Markets Fund,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,Emerging Markets Equity,International Equities - Emerging,MF,,,,,,,,,,,,,,DYWK
-GSF6910AU,,Man GLG Asia Opportunitie,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,Asia Pacific ex Japan Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,STSP
-PIM7802AU,,Fairlight Global Small & Mid Cap Fund (SMID) Class A,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Mid Small Equity,International Equities - Small Cap,MF,,,,,,,,,,,,,,Q2PQ
-MAQ0633AU,,Macquarie True Index International Equities,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Large Blend Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,LSN5
-AAP8285AU,,Ausbil Global SmallCap Fund,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Mid Small Equity,International Equities - Small Cap,MF,,,,,,,,,,,,,,PHP8
-FRT0009AU,,Franklin Global Growth Fund,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Large Growth Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,06RO
-MUA0002AU,,Munro Global Growth Fund,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Other Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,NCYH
-SWI1413AU,,WCM Quality Global Growth Fund (Managed Fund) Class A (Unhedged),Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Large Growth Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,QG7W
-ETL0483AU,,Pzena Emerging Markets Value Fund,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,Emerging Markets Equity,International Equities - Emerging,MF,,,,,,,,,,,,,,DNSP
-ETL4207AU,,GQG Partners Emerging Markets Equity Fund - A Class,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,Emerging Markets Equity,International Equities - Emerging,MF,,,,,,,,,,,,,,Q62L
-ETL0171AU,,AXA IM Sustainable Equity Fund,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Large Blend Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,E2KF
-BLK4709AU,,BlackRock iShares WholeSale Australian Listed Property Index,Growth,Real Assets,Alternatives,Alternatives (Growth),Active Manager,,,Australia Real Estate Equity,AREITs,MF,,,,,,,,,,,,,,CSRF
-BLK9419AU,,BlackRock iShares Global Listed Property Index,Growth,Real Assets,Alternatives,Alternatives (Growth),Active Manager,,,Global Real Estate,GREITs,MF,,,,,,,,,,,,,,WSQP
-LAM0044AU,,Alceon Australian Property,Growth,Real Assets,Alternatives,Alternatives (Growth),Active Manager,,,Direct Property,Australian Direct Property,MF,,,,,,,,,,,,,,MQWT
-GTU5547AU,,Invesco Global Real Estate Fund - Class A,Growth,Real Assets,Alternatives,Alternatives (Growth),Active Manager,,,Direct Property,Australian Direct Property,MF,,,,,,,,,,,,,,QMZ8
-TGP0016AU,,ClearBridge RARE Infrastructure Income Fund - Hedged,Growth,Real Assets,Alternatives,Alternatives (Growth),Active Manager,,,Global Infrastructure - Currency Hedged,Global Listed Infrastructure - hedged,MF,,,,,,,,,,,,,,07EN
-GPEQ-AU,,VanEck Global Listed Private Equity ETF,Growth,Alternatives,Alternatives,Alternatives (Growth),Active Manager,,,Alternatives - Growth Illiquid,Alternatives - Growth Illiquid,MF,,,,,,,,,,,,,,T4VJ
-AUS0035AU,,Talaria Global Equity (Managed Fund),Growth,Alternatives,Alternatives,Alternatives (Growth),Active Manager,,,World Other Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,LBL2
-EQI4297AU,,abrdn Global Risk Mitigation Fund,Growth,Alternatives,Alternatives,Alternatives (Growth),Active Manager,,,Alternatives - Defensive Liquid,Alternatives - Defensive Liquid,MF,,,,,,,,,,,,,,VQJP
-MAQ5143AU,,P/E Global FX Alpha Fund,Growth,Alternatives,Alternatives,Alternatives (Growth),Active Manager,,,Alternatives - Defensive Liquid,Alternatives - Defensive Liquid,MF,,,,,,,,,,,,,,NU4K
-SCH0038AU,,Schroder Specialist Private Equity Fund,Growth,Alternatives,Alternatives,Alternatives (Growth),Active Manager,,,Alternatives - Growth Illiquid,Alternatives - Growth Illiquid,MF,,,,,,,,,,,,,,D0IE
-ETL2119AU,,LGT Capital Multi-Alternatives Australia,Growth,Alternatives,Alternatives,Alternatives (Defensive),Active Manager,,,Alternatives - Growth Illiquid,Alternatives - Growth Illiquid,MF,,,,,,,,,,,,,,DHCC
-PIM1038AU,,Ruffer Total Return International - Australia Fund,Growth,Alternatives,Alternatives,Alternatives (Defensive),Active Manager,,,Alternatives - Defensive Liquid,Alternatives - Defensive Liquid,MF,,,,,,,,,,,,,,LK5Q
-CNA0805AU,,Invesco Wholesale Senior Secured Income Fund,Growth,Alternatives,Alternatives,Alternatives (Defensive),Active Manager,,,Alternatives - Defensive illiquid,Alternatives - Defensive Illiquid,MF,,,,,,,,,,,,,,LXU7
-PER0728AU,,BMO Pyrford Global Absolute Return,Growth,Alternatives,Alternatives,Alternatives (Defensive),Active Manager,,,Diversified Flexible,Balance,MF,,,,,,,,,,,,,,M4CJ
-WHT5134AU,,Firetrail Absolute Return Fund - Class A,Growth,Alternatives,Alternatives,Alternatives (Growth),Active Manager,,,Alternatives - Defensive Liquid,Alternatives - Defensive Liquid,MF,,,,,,,,,,,,,,P2P2
-SSB0122AU,,Western Asset Australian Bond Fund - Class A,Defensive,Long Duration,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Australian Bonds,Australian Fixed Interest,MF,,,,,,,,,,,,,,N3D5
-ETL5525AU,,Colchester Global Government Bond Fund Class I,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Global Bonds ,International Fixed Interest,MF,,,,,,,,,,,,,,NRLJ
-FRT0027AU,,Franklin Australian Absolute Return Bond Fund — W Class,Defensive,Long Duration,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Global Bonds ,International Fixed Interest,MF,,,,,,,,,,,,,,M2MZ
-ETL0018AU,,PIMCO Global Bond Fund — Wholesale Class,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Global Bonds ,International Fixed Interest,MF,,,,,,,,,,,,,,09X2
-ETL0019AU,,PIMCO Global Credit Fund — Wholesale Class,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Diversified Credit,Floating High Yield Credit,MF,,,,,,,,,,,,,,09X4
-CIM0008AU,,Capital Group New Perspective Fund Hedged (AU),Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,Active Manager,,,World Currency Hedged Equity,International Equities - Hedged,MF,,,,,,,,,,,,,,MWDC
-IOF0127AU,,Janus Henderson Diversified Credit Fund,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Diversified Credit,Floating High Yield Credit,MF,,,,,,,,,,,,,,I80V
-WPC1963AU,,Daintree Core Income Trust,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Global Bonds ,International Fixed Interest,MF,,,,,,,,,,,,,,O0NZ
-CSA0038AU,,Bentham Global Income Fund,Defensive,Floating Rate,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Global Bonds ,International Fixed Interest,MF,,,,,,,,,,,,,,L1O7
-JBW4379AU,,Yarra Absolute Credit Fund,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Diversified Credit,Floating High Yield Credit,MF,,,,,,,,,,,,,,TGYL
-HOW0098AU,,Ardea Real Outcome Fund,Defensive,Floating Rate,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Global Bonds ,International Fixed Interest,MF,,,,,,,,,,,,,,GMLG
-IOF0145AU,,Janus Henderson Tactical Income Fund,Defensive,Floating Rate,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Australian Bonds,Australian Fixed Interest,MF,,,,,,,,,,,,,,LFL1
-HOW0052AU,,Kapstream Absolute Return Income Fund,Defensive,Floating Rate,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Global Bonds ,International Fixed Interest,MF,,,,,,,,,,,,,,L1N5
-OMF0005AU,,Alexander Credit Opportunities Fund,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Diversified Credit,Floating High Yield Credit,MF,,,,,,,,,,,,,,M1WA
-OMF0018AU,,Realm High Income,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Diversified Credit,Floating High Yield Credit,MF,,,,,,,,,,,,,,NFZV
-SAI0004AU,,Arrow Primary Infrastructure Fund ,Defensive,Real Assets,Alternatives,Alternatives (Growth),Active Manager,,,,,MF,,,,,,,,,,,,,,
-FSM8350AU,,Federation Alternative Investments II WS,Defensive,Real Assets,Alternatives,Alternatives (Growth),Active Manager,,,,,MF,,,,,,,,,,,,,,L7US
-ETL6849AU,,Federation Alternative Investments Ret,Defensive,Real Assets,Alternatives,Alternatives (Growth),Active Manager,,,,,MF,,,,,,,,,,,,,,RY5L
-ETL0379AU,,GAM FCM ILS Yield A,Defensive,Floating Rate,Global Fixed Interest,Alternatives (Growth),Active Manager,,,,,MF,,,,,,,,,,,,,,
-SSB0495AU,,Franklin K2 Athena Fund,Growth,Alternatives,Alternatives,Alternatives (Growth),Active Manager,,,,,MF,,,,,,,,,,,,,,ATUGV
-JBW0052AU,,Yarra Ex-20 Australian Equities Fund,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Large Blend Equity,Australian Equities,MF,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-ATCHBM00001,,CPI,,,,,,,,,,BM,,,,,,0,,,,,,,,KTKN.N
-ATCHBM00001_25,,CPI + 0.25% p.a.,,,,,,,,,,BM,,,,,,0.25,,,,,,,,0
-ATCHBM00001_50,,CPI + 0.5% p.a.,,,,,,,,,,BM,,,,,,0.5,,,,,,,,0
-ATCHBM00001_75,,CPI + 0.75% p.a.,,,,,,,,,,BM,,,,,,0.75,,,,,,,,0
-ATCHBM00001_100,,CPI + 1% p.a.,,,,,,,,,,BM,,,,,,1,,,,,,,,0
-ATCHBM00001_125,,CPI + 1.25% p.a.,,,,,,,,,,BM,,,,,,1.25,,,,,,,,0
-ATCHBM00001_150,,CPI + 1.5% p.a.,,,,,,,,,,BM,,,,,,1.5,,,,,,,,0
-ATCHBM00001_175,,CPI + 1.75% p.a.,,,,,,,,,,BM,,,,,,1.75,,,,,,,,0
-ATCHBM00001_200,,CPI + 2% p.a.,,,,,,,,,,BM,,,,,,2,,,,,,,,0
-ATCHBM00001_225,,CPI + 2.25% p.a.,,,,,,,,,,BM,,,,,,2.25,,,,,,,,0
-ATCHBM00001_250,,CPI + 2.5% p.a.,,,,,,,,,,BM,,,,,,2.5,,,,,,,,0
-ATCHBM00001_275,,CPI + 2.75% p.a.,,,,,,,,,,BM,,,,,,2.75,,,,,,,,0
-ATCHBM00001_300,,CPI + 3% p.a.,,,,,,,,,,BM,,,,,,3,,,,,,,,0
-ATCHBM00001_325,,CPI + 3.25% p.a.,,,,,,,,,,BM,,,,,,3.25,,,,,,,,0
-ATCHBM00001_350,,CPI + 3.5% p.a.,,,,,,,,,,BM,,,,,,3.5,,,,,,,,0
-ATCHBM00001_375,,CPI + 3.75% p.a.,,,,,,,,,,BM,,,,,,3.75,,,,,,,,0
-ATCHBM00001_400,,CPI + 4% p.a.,,,,,,,,,,BM,,,,,,4,,,,,,,,0
-ATCHBM00001_425,,CPI + 4.25% p.a.,,,,,,,,,,BM,,,,,,4.25,,,,,,,,0
-ATCHBM00001_450,,CPI + 4.5% p.a.,,,,,,,,,,BM,,,,,,4.5,,,,,,,,0
-ATCHBM00001_475,,CPI + 4.75% p.a.,,,,,,,,,,BM,,,,,,4.75,,,,,,,,0
-ATCHBM00001_500,,CPI + 5% p.a.,,,,,,,,,,BM,,,,,,5,,,,,,,,0
-ATCHBM00001_525,,CPI + 5.25% p.a.,,,,,,,,,,BM,,,,,,5.25,,,,,,,,0
-ATCHBM00001_550,,CPI + 5.5% p.a.,,,,,,,,,,BM,,,,,,5.5,,,,,,,,0
-ATCHBM00001_575,,CPI + 5.75% p.a.,,,,,,,,,,BM,,,,,,5.75,,,,,,,,0
-ATCHBM00001_600,,CPI + 6% p.a.,,,,,,,,,,BM,,,,,,6,,,,,,,,0
-ATCHBM00001_625,,CPI + 6.25% p.a.,,,,,,,,,,BM,,,,,,6.25,,,,,,,,0
-ATCHBM00001_650,,CPI + 6.5% p.a.,,,,,,,,,,BM,,,,,,6.5,,,,,,,,0
-ATCHBM00001_675,,CPI + 6.75% p.a.,,,,,,,,,,BM,,,,,,6.75,,,,,,,,0
-ATCHBM00001_700,,CPI + 7% p.a.,,,,,,,,,,BM,,,,,,7,,,,,,,,0
-ATCHBM00001_725,,CPI + 7.25% p.a.,,,,,,,,,,BM,,,,,,7.25,,,,,,,,0
-ATCHBM00001_750,,CPI + 7.5% p.a.,,,,,,,,,,BM,,,,,,7.5,,,,,,,,0
-,,,,,,,,,,,,,,,,,,,,,,,,,,0
-ATCHBM00002,,AMI Alternative,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:ALT.X
-ATCHBM00003,,AMI Cash - Australian Dollar,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:CAD.X
-ATCHBM00004,,AMI Fixed Int - Australian Bond,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:FAD.X
-ATCHBM00005,,AMI Fixed Int - Global Bond,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:GLF.X
-ATCHBM00006,,AMI Fixed Int - Inflation Linked Bonds,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:FIL.X
-ATCHBM00007,,AMI Commodity & Energy,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:COM.X
-ATCHBM00008,,AMI Fixed Int - Diversified Credit,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:FXC.X
-ATCHBM00009,,AMI Equity - Asia Pacific ex Japan,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:AXJ.X
-ATCHBM00010,,AMI Equity - Australia Equity Income,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:EAE.X
-ATCHBM00011,,AMI Equity - Australia,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:EQA.X
-ATCHBM00012,,AMI Equity - Australia Small/Mid Cap,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:EAS.X
-ATCHBM00013,,AMI Property - Australia Listed,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:ALP.X
-ATCHBM00014,,AMI Equity - Emerging Markets,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:IEM.X
-ATCHBM00015,,AMI Equity - Europe,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:EUQ.X
-ATCHBM00016,,AMI Equity - Infrastructure,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:EIF.X
-ATCHBM00017,,AMI Property - Global,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:PRP.X
-ATCHBM00018,,AMI Equity - Global,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:IEG.X
-ATCHBM00019,,AMI Equity - Global Small/Mid Cap,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:ASC.X
-ATCHBM00020,,AMI Equity - Global Hedged,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:EGH.X
-ATCHBM00021,,AMI Fixed Int - Mortgages,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:FMT.X
-ATCHBM00022,,AMI Mixed Asset - Aggressive,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:IMG.X
-ATCHBM00023,,AMI Mixed Asset - Balanced,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:IMB.X
-ATCHBM00024,,AMI Mixed Asset - Cautious,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:IMC.X
-ATCHBM00025,,AMI Mixed Asset - Flexible,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:IMF.X
-ATCHBM00026,,AMI Mixed Asset - Growth,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:MAG.X
-ATCHBM00027,,AMI Mixed Asset - Moderate,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:MAM.X
-ATCHBM00028,,AMI Property - Australia Direct,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,MI:ADP.X
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-BHP-AU,BHP,BHP GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"445,998,922.92",30-Jun-23,,,,,14.3,8.1,4.2,27,4,Thermal coal,,0QLN
-CBA-AU,CBA,COMMONWEALTH BANK OF AUSTRALIA,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"343,608,203.97",30-Jun-23,,,,,1,11.8,10.3,23,3,None,,0S1Q
-CSL-AU,CSL,CSL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"260,005,549.96",30-Jun-23,,,,,1.9,15.3,7.2,24,2,Animal testing,,0R0X
-NAB-AU,NAB,NATIONAL AUSTRALIA BANK LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"179,147,426.73",30-Jun-23,,,,,2.1,11.3,10.1,24,3,None,,0PZ0
-WBC-AU,WBC,WESTPAC BANKING CORPORATION CORP,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"153,078,196.96",30-Jun-23,,,,,1.7,10.5,11.9,24,4,None,,0SBN
-ANZ-AU,ANZ,ANZ GROUP HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"149,574,119.32",30-Jun-23,,,,,1.9,10.1,7.5,19,3,None,,0P46
-WDS-AU,WDS,WOODSIDE ENERGY GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"146,448,641.91",30-Jun-23,,,,,18.2,7.1,6.3,32,2,None,,0QJ4
-MQG-AU,MQG,MACQUARIE GROUP LTD DEF,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"127,691,335.21",30-Jun-23,,,,,1.9,11.4,109,24,2,None,,0PUJ
-WES-AU,WES,WESFARMERS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"118,388,952.00",30-Jun-23,,,,,4.9,5.1,3.4,13,2,None,,0QIA
-TLS-AU,TLS,TELSTRA GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"94,803,489.68",30-Jun-23,,,,,4.9,12.6,6.3,24,2,None,,T6J3
-WOW-AU,WOW,WOOLWORTHS GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"93,336,266.55",30-Jun-23,,,,,6.3,8.9,4.2,19,2,None,,0QJ5
-TCL-AU,TCL,TRANSURBAN GROUP STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"82,492,551.60",30-Jun-23,,,,,1.6,3.5,3.9,9,2,None,,0QFI
-RIO-AU,RIO,RIO TINTO LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"81,957,603.00",30-Jun-23,,,,,14.6,11,6.6,32,4,Thermal coal,,0Q8F
-FMG-AU,FMG,FORTESCUE METALS GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"72,541,642.81",30-Jun-23,,,,,12.7,7.8,4.5,25,2,None,,0R6E
-GMG-AU,GMG,GOODMAN GROUP UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"79,084,959.72",30-Jun-23,,,,,2.1,3.2,4.4,10,1,None,,0R8G
-ALL-AU,ALL,ARISTOCRAT LEISURE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"53,596,190.16",30-Jun-23,,,,,2.2,11.4,8.3,22,1,None,,0PIJ
-STO-AU,STO,SANTOS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"51,849,087.16",30-Jun-23,,,,,20.9,9.6,9.1,40,2,None,,0Q9B
-COL-AU,COL,COLES GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"43,605,348.41",30-Jun-23,,,,,,,,17.5,,None,,PSY2
-NCM-AU,NCM,NEWCREST MINING LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"46,587,981.00",30-Jun-23,,,,,15,7.5,5.3,28,3,None,,0PZJ
-QBE-AU,QBE,QBE INSURANCE GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"44,220,683.43",30-Jun-23,,,,,1,9.8,8.4,19,2,None,,0Q5R
-BXB-AU,BXB,BRAMBLES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"40,001,895.10",30-Jun-23,,,,,1.4,8.6,4.1,14,0,None,,0QMZ
-JHX-AU,JHX,JAMES HARDIE INDUSTRIES CDI PLC,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"39,916,368.20",30-Jun-23,,,,,15.8,7.6,6.8,30,2,None,,0RD4
-SUN-AU,SUN,SUNCORP GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"33,811,832.25",30-Jun-23,,,,,0.9,8.9,9,19,2,None,,0QCU
-S32-AU,S32,SOUTH32 LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"32,439,209.76",30-Jun-23,,,,,14.6,6.2,4.3,25,2,None,,MCNP
-XRO-AU,XRO,XERO LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"34,098,281.79",30-Jun-23,,,,,,,,16.1,,None,,GZYP
-SHL-AU,SHL,SONIC HEALTHCARE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"30,625,745.16",30-Jun-23,,,,,0.1,11.1,6.9,18,1,None,,0QB9
-COH-AU,COH,COCHLEAR LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"35,632,125.58",30-Jun-23,,,,,3,16.8,9.5,29,1,Animal testing,,0QYZ
-WTC-AU,WTC,WISETECHGLOBAL PTY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"25,773,794.70",30-Jun-23,,,,,,,,19.4,,None,,N42K
-SCG-AU,SCG,SCENTRE GROUP,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"28,837,757.69",30-Jun-23,,,,,1.1,2.6,4.6,8,2,None,,KLDW
-IAG-AU,IAG,INSURANCE AUSTRALIA GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"28,445,576.32",30-Jun-23,,,,,1.4,9.8,8.6,20,2,None,,0RBY
-ORG-AU,ORG,ORIGIN ENERGY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Utilities,,,,,ASXStock,"30,461,840.00",30-Jun-23,,,,,,,,36.8,,None,,0Q1R
-CPU-AU,CPU,COMPUTERSHARE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"28,923,971.45",30-Jun-23,,,,,4.6,11.4,5.7,22,0,None,,0QZG
-NST-AU,NST,NORTHERN STAR RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"26,327,455.43",30-Jun-23,,,,,,,,34.7,,None,,0Q0A
-RMD-AU,RMD,RESMED CDI INC,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"20,158,378.90",30-Jun-23,,,,,,,,26.4,,None,,0Q7O
-PLS-AU,PLS,PILBARA MINERALS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"25,058,919.50",30-Jun-23,,,,,,,,40.2,,None,,0Q41
-MIN-AU,MIN,MINERAL RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"22,874,881.34",30-Jun-23,,,,,,,,21.5,,None,,0PX3
-ASX-AU,ASX,ASX LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"22,742,623.04",30-Jun-23,,,,,2.6,7.9,9.1,20,2,None,,0PJ8
-QAN-AU,QAN,QANTAS AIRWAYS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"23,175,441.12",30-Jun-23,,,,,,,,27.8,,None,,0Q5Q
-APA-AU,APA,APA GROUP UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Utilities,,,,,ASXStock,"21,007,518.35",30-Jun-23,,,,,16.2,11.9,5.8,34,2,None,,0PGR
-TLC-AU,TLC,THE LOTTERY CORPORATION LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"22,840,447.80",30-Jun-23,,,,,,,,27.2,,Gaming,,VBNO
-RHC-AU,RHC,RAMSAY HEALTH CARE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"18,419,597.46",30-Jun-23,,,,,3.2,11.2,7,21,1,Catholic values,,0Q6D
-SGP-AU,SGP,STOCKLAND STAPLED UNITS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"20,348,678.43",30-Jun-23,,,,,2.6,2.5,4,9,0,None,,0QC6
-BSL-AU,BSL,BLUESCOPE STEEL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"19,299,324.66",30-Jun-23,,,,,13.3,11.6,6.4,31,2,None,,0QMI
-MPL-AU,MPL,MEDIBANK PRIVATE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"20,098,107.54",30-Jun-23,,,,,2.3,11.5,7.8,22,4,None,,KZ1K
-IGO-AU,IGO,IGO LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"17,854,849.44",30-Jun-23,,,,,,,,26.9,,None,,0RBK
-MGR-AU,MGR,MIRVAC GROUP STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"18,874,463.40",30-Jun-23,,,,,1.9,2.4,4.4,9,2,None,,0PXD
-CAR-AU,CAR,CARSALES.COM LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"21,312,795.50",30-Jun-23,,,,,,,,20.8,,None,,0QOV
-AKE-AU,AKE,ALLKEM LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"17,006,206.28",30-Jun-23,,,,,,,,38.1,,None,,0Q1X
-AMC-AU,AMC,AMCOR CDI PLC,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"18,117,730.69",30-Jun-23,,,,,,,,17.6,,None,,0PG5
-DXS-AU,DXS,DEXUS STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"16,709,717.20",30-Jun-23,,,,,2.5,0.8,3.4,7,0,None,,TEQW
-SEK-AU,SEK,SEEK LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"16,907,666.67",30-Jun-23,,,,,,,,11.6,,None,,0Q9M
-EDV-AU,EDV,ENDEAVOUR GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"15,303,579.50",30-Jun-23,,,,,,,,17.7,,None,,T98S
-GPT-AU,GPT,GPT GROUP STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"16,015,523.84",30-Jun-23,,,,,2.1,2.8,5.3,10,1,None,,0R8J
-REA-AU,REA,REA GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"16,986,213.28",30-Jun-23,,,,,0.1,8.4,6.7,15,0,None,,0Q6N
-TWE-AU,TWE,TREASURY WINE ESTATES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"17,515,360.13",30-Jun-23,,,,,8.2,8.9,4.4,21,2,Alcoholic beverages,,0QFL
-SOL-AU,SOL,WASHINGTON H SOUL PATTINSON & COMP,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"16,021,771.54",30-Jun-23,,,,,,,,14.1,,None,,0QHX
-VCX-AU,VCX,VICINITY CENTRES,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"14,356,325.12",30-Jun-23,,,,,2.9,1.6,4.3,9,1,None,,0QPL
-ALD-AU,ALD,AMPOL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"16,423,276.03",30-Jun-23,,,,,19.3,8.7,4.8,33,1,None,,0QO1
-ALX-AU,ALX,ATLAS ARTERIA STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"15,097,078.02",30-Jun-23,,,,,,,,7.3,,None,,0RFX
-AGL-AU,AGL,AGL ENERGY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Utilities,,,,,ASXStock,"13,445,180.00",30-Jun-23,,,,,21.8,6.4,4.4,33,2,None,,0PEX
-ORI-AU,ORI,ORICA LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"13,896,740.82",30-Jun-23,,,,,19.7,3.7,7.6,31,2,None,,0Q1O
-AZJ-AU,AZJ,AURIZON HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"13,865,481.92",30-Jun-23,,,,,,,,23.3,,None,,0Q5S
-EVN-AU,EVN,EVOLUTION MINING LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"13,048,973.17",30-Jun-23,,,,,,,,30,,None,,0R4Z
-NXT-AU,NXT,NEXTDC LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"14,406,268.98",30-Jun-23,,,,,,,,17.6,,None,,0PZR
-WOR-AU,WOR,WORLEY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"12,855,470.76",30-Jun-23,,,,,,,,28.2,,None,,0QJB
-WHC-AU,WHC,WHITEHAVEN COAL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"11,575,645.20",30-Jun-23,,,,,,,,51,,Thermal coal,,0QIW
-LYC-AU,LYC,LYNAS RARE EARTHS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"13,312,100.58",30-Jun-23,,,,,,,,23.2,,None,,0RFR
-SDF-AU,SDF,STEADFAST GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"11,825,065.44",30-Jun-23,,,,,,,,22.8,,None,,JLDL
-CWY-AU,CWY,CLEANAWAY WASTE MANAGEMENT LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"11,648,821.76",30-Jun-23,,,,,,,,22.1,,None,,0QFG
-IPL-AU,IPL,INCITEC PIVOT LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"11,540,869.00",30-Jun-23,,,,,,,,28,,None,,0RBI
-LLC-AU,LLC,LENDLEASE GROUP STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"10,721,902.42",30-Jun-23,,,,,5.2,7.9,7.7,21,2,None,,0RF1
-ALQ-AU,ALQ,ALS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"10,966,605.65",30-Jun-23,,,,,,,,20.1,,None,,0QO3
-CHC-AU,CHC,CHARTER HALL GROUP STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"10,180,919.36",30-Jun-23,,,,,,,,10.8,,None,,0QQ2
-BEN-AU,BEN,BENDIGO AND ADELAIDE BANK LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"10,800,666.60",30-Jun-23,,,,,,,,23.8,,None,,0RS9
-LTR-AU,LTR,LIONTOWN RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"10,542,954.36",30-Jun-23,,,,,,,,34,,None,,0RFB
-QUB-AU,QUB,QUBE HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"10,952,099.46",30-Jun-23,,,,,,,,16.4,,None,,0Q5X
-IEL-AU,IEL,IDP EDUCATION PTY LTDINARY,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"11,088,315.96",30-Jun-23,,,,,,,,14.5,,None,,MWQU
-JBH-AU,JBH,JB HI-FI LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"9,918,194.88",30-Jun-23,,,,,,,,15.2,,None,,0RD7
-ALU-AU,ALU,ALTIUM LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"12,031,260.45",30-Jun-23,,,,,,,,17,,None,,0PFS
-ILU-AU,ILU,ILUKA RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"6,926,266.64",30-Jun-23,,,,,,,,31.5,,None,,0RB6
-TNE-AU,TNE,TECHNOLOGY ONE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"8,547,138.60",30-Jun-23,,,,,,,,17.5,,None,,0QE1
-CGF-AU,CGF,CHALLENGER LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"8,131,951.54",30-Jun-23,,,,,,,,19.7,,None,,0QPX
-REH-AU,REH,REECE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"8,579,205.42",30-Jun-23,,,,,,,,23.9,,None,,0Q7A
-SVW-AU,SVW,SEVEN GROUP HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"8,670,826.44",30-Jun-23,,,,,,,,23.6,,None,,0Q9V
-VUK-AU,VUK,VIRGIN MONEY UK CDI PLC,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"7,658,289.45",30-Jun-23,,,,,,,,18.5,,None,,MY7O
-NHF-AU,NHF,NIB HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"7,986,276.65",30-Jun-23,,,,,,,,19.2,,None,,0PZT
-BOQ-AU,BOQ,BANK OF QUEENSLAND LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"7,913,415.26",30-Jun-23,,,,,,,,21.9,,None,,0QKY
-FLT-AU,FLT,FLIGHT CENTRE TRAVEL GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"7,553,977.08",30-Jun-23,,,,,,,,21.2,,None,,0R65
-FPH-AU,FPH,FISHER AND PAYKEL HEALTHCARE CORPO,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"6,770,740.69",30-Jun-23,,,,,,,,24,,None,,0R5X
-A2M-AU,A2M,THE A2 MILK COMPANY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"6,939,713.27",30-Jun-23,,,,,,,,32.8,,None,,#N/A
-MTS-AU,MTS,METCASH LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"7,213,703.05",30-Jun-23,,,,,,,,15.4,,None,,0PWF
-CNU-AU,CNU,CHORUS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"6,563,813.34",30-Jun-23,,,,,,,,25.4,,None,,0QY5
-PME-AU,PME,PRO MEDICUS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"7,480,002.88",30-Jun-23,,,,,,,,20,,None,,0Q58
-SQ2-AU,SQ2,BLOCK INC CDI,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"5,131,327.74",30-Jun-23,,,,,,,,19.8,,None,,LVJC
-AWC-AU,AWC,ALUMINA LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"5,383,959.84",30-Jun-23,,,,,,,,30,,None,,0PFW
-AMP-AU,AMP,AMP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"7,370,932.44",30-Jun-23,,,,,1.4,10.5,12.1,24,4,None,,0PG8
-RWC-AU,RWC,RELIANCE WORLDWIDE CORPORATION LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"6,468,312.69",30-Jun-23,,,,,,,,26.2,,None,,N5EO
-DMP-AU,DMP,DOMINOS PIZZA ENTERPRISES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"6,926,181.43",30-Jun-23,,,,,,,,27.1,,None,,0R26
-NEC-AU,NEC,NINE ENTERTAINMENT CO HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"5,946,398.75",30-Jun-23,,,,,,,,16.4,,None,,JY3V
-ANN-AU,ANN,ANSELL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"6,016,164.00",30-Jun-23,,,,,,,,15.4,,None,,0PGI
-DOW-AU,DOW,DOWNER EDI LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"5,615,177.36",30-Jun-23,,,,,,,,36.9,,None,,0R29
-WEB-AU,WEB,WEBJET LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"5,774,514.27",30-Jun-23,,,,,,,,26,,None,,0QI5
-SFR-AU,SFR,SANDFIRE RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"5,831,081.19",30-Jun-23,,,,,,,,32.1,,None,,0Q9A
-ORA-AU,ORA,ORORA LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"6,049,996.48",30-Jun-23,,,,,,,,21.6,,None,,KGLH
-RGN-AU,RGN,REGION GROUP STAPLED UNITS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"5,066,892.98",30-Jun-23,,,,,,,,15.8,,None,,I0ZU
-TLX-AU,TLX,TELIX PHARMACEUTICALS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"5,345,175.60",30-Jun-23,,,,,,,,28.7,,None,,OB0D
-NSR-AU,NSR,NATIONAL STORAGE REIT STAPLED UNIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"5,688,173.66",30-Jun-23,,,,,,,,15,,None,,#N/A
-NHC-AU,NHC,NEW HOPE CORPORATION LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"5,955,044.76",30-Jun-23,,,,,,,,49.1,,None,,0PZF
-PPT-AU,PPT,PERPETUAL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"4,898,367.96",30-Jun-23,,,,,,,,22.5,,None,,0Q3I
-CLW-AU,CLW,CHARTER HALL LONG WALE REIT STAPLE,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"4,643,036.28",30-Jun-23,,,,,,,,12.3,,None,,NKVS
-CSR-AU,CSR,CSR LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"5,697,320.86",30-Jun-23,,,,,,,,,,,,0R0Y
-CTD-AU,CTD,CORPORATE TRAVEL MANAGEMENT LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"4,926,584.00",30-Jun-23,,,,,,,,,,,,0R05
-AUB-AU,AUB,AUB GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"5,599,658.40",30-Jun-23,,,,,,,,,,,,0PK6
-BPT-AU,BPT,BEACH ENERGY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"4,974,981.24",30-Jun-23,,,,,,,,,,,,0QLC
-APE-AU,APE,EAGERS AUTOMOTIVE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"4,983,840.31",30-Jun-23,,,,,,,,,,,,0P8N
-TAH-AU,TAH,TABCORP HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"4,705,569.80",30-Jun-23,,,,,,,,,,,,0QDH
-PRU-AU,PRU,PERSEUS MINING LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"4,952,462.24",30-Jun-23,,,,,,,,,,,,0Q3J
-SGM-AU,SGM,SIMS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"4,898,555.60",30-Jun-23,,,,,,,,,,,,0QAK
-HVN-AU,HVN,HARVEY NORMAN HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"5,025,537.04",30-Jun-23,,,,,,,,,,,,0R9K
-ARB-AU,ARB,ARB CORPORATION LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"5,354,722.29",30-Jun-23,,,,,,,,,,,,0PH4
-CIA-AU,CIA,CHAMPION IRON LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"4,586,101.80",30-Jun-23,,,,,,,,,,,,0PV1
-BKW-AU,BKW,BRICKWORKS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"4,692,647.38",30-Jun-23,,,,,,,,,,,,0QN7
-PMV-AU,PMV,PREMIER INVESTMENTS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"5,199,732.50",30-Jun-23,,,,,,,,,,,,0Q4X
-BRG-AU,BRG,BREVILLE GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"4,991,086.38",30-Jun-23,,,,,,,,,,,,0QN6
-HUB-AU,HUB,HUB24 LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"5,088,348.51",30-Jun-23,,,,,,,,,,,,JROM
-TPG-AU,TPG,TPG TELECOM LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"4,838,685.42",30-Jun-23,,,,,,,,,,,,R5KL
-BAP-AU,BAP,BAPCOR LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"4,567,779.36",30-Jun-23,,,,,,,,,,,,KCDR
-VEA-AU,VEA,VIVA ENERGY GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"4,257,991.76",30-Jun-23,,,,,,,,,,,,PA5O
-CHN-AU,CHN,CHALICE MINING LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,451,897.26",30-Jun-23,,,,,,,,,,,,0QPT
-NUF-AU,NUF,NUFARM LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,810,044.16",30-Jun-23,,,,,,,,,,,,0Q0M
-PDN-AU,PDN,PALADIN ENERGY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"4,624,430.16",30-Jun-23,,,,,,,,,,,,0Q2K
-DRR-AU,DRR,DETERRA ROYALTIES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,724,995.40",30-Jun-23,,,,,,,,,,,,WEN6
-SUL-AU,SUL,SUPER RETAIL GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"4,144,795.38",30-Jun-23,,,,,,,,,,,,0QD3
-IFL-AU,IFL,INSIGNIA FINANCIAL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"3,450,179.88",30-Jun-23,,,,,,,,,,,,0RCM
-CQR-AU,CQR,CHARTER HALL RETAIL UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"3,583,500.80",30-Jun-23,,,,,,,,,,,,0QQ4
-IPH-AU,IPH,IPH LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"3,655,273.25",30-Jun-23,,,,,,,,,,,,KYKN
-IRE-AU,IRE,IRESS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"2,570,331.90",30-Jun-23,,,,,,,,,,,,0RCP
-DEG-AU,DEG,DE GREY MINING LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,874,824.54",30-Jun-23,,,,,,,,,,,,0R1F
-HDN-AU,HDN,HOMECO DAILY NEEDS UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"3,764,883.35",30-Jun-23,,,,,,,,,,,,H7KU
-GNC-AU,GNC,GRAINCORP CLASS A LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"3,620,528.56",30-Jun-23,,,,,,,,,,,,0R8L
-BWP-AU,BWP,BWP TRUST,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"3,531,729.60",30-Jun-23,,,,,,,,,,,,0QNU
-AIA-AU,AIA,AUCKLAND INTERNATIONAL AIRPORT LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"3,485,720.25",30-Jun-23,,,,,,,,,,,,0PJK
-GOR-AU,GOR,GOLD ROAD RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,650,582.22",30-Jun-23,,,,,,,,,,,,0R84
-CIP-AU,CIP,CENTURIA INDUSTR UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"3,369,775.11",30-Jun-23,,,,,,,,,,,,I3CQ
-WPR-AU,WPR,WAYPOINT REIT STAPLED UNIT LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"3,437,489.16",30-Jun-23,,,,,,,,,,,,NCUZ
-PNI-AU,PNI,PINNACLE INVESTMENT MANAGEMENT GRO,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"3,104,154.00",30-Jun-23,,,,,,,,,,,,0QJ1
-CMM-AU,CMM,CAPRICORN METALS LTD DEF,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,082,718.44",30-Jun-23,,,,,,,,,,,,0PV0
-NIC-AU,NIC,NICKEL INDUSTRIES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,209,190.75",30-Jun-23,,,,,,,,,,,,PGQ9
-HLS-AU,HLS,HEALIUS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"3,061,817.10",30-Jun-23,,,,,,,,,,,,0Q50
-IVC-AU,IVC,INVOCARE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"3,479,057.60",30-Jun-23,,,,,,,,,,,,0RCK
-LIC-AU,LIC,LIFESTYLE COMMUNITIES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"3,218,032.86",30-Jun-23,,,,,,,,,,,,0RF4
-VNT-AU,VNT,VENTIA SERVICES GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"3,071,052.46",30-Jun-23,,,,,,,,,,,,L1EA
-BGL-AU,BGL,BELLEVUE GOLD LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,492,480.27",30-Jun-23,,,,,,,,,,,,0R2D
-MP1-AU,MP1,MEGAPORT LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"3,692,993.08",30-Jun-23,,,,,,,,,,,,E36S
-PXA-AU,PXA,PEXA GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"2,892,186.57",30-Jun-23,,,,,,,,,,,,T00X
-360-AU,360,LIFE360 INC. CDI INC,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"3,620,211.70",30-Jun-23,,,,,,,,,,,,QBD3
-CCP-AU,CCP,CREDIT CORP GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"2,794,221.60",30-Jun-23,,,,,,,,,,,,0R0K
-INA-AU,INA,INGENIA COMMUNITIES GROUP STAPLED,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"3,012,801.24",30-Jun-23,,,,,,,,,,,,GQKD
-CGC-AU,CGC,COSTA GROUP HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"2,845,560.48",30-Jun-23,,,,,,,,,,,,MKAV
-SGR-AU,SGR,THE STAR ENTERTAINMENT GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"2,684,582.46",30-Jun-23,,,,,,,,,,,,0R2Y
-AVZ-AU,AVZ,AVZ MINERALS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"2,599,636.74",30-Jun-23,,,,,,,,,,,,0QKN
-KLS-AU,KLS,KELSIAN GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"2,784,931.50",30-Jun-23,,,,,,,,,,,,JV1K
-GUD-AU,GUD,GUD HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"3,393,712.56",30-Jun-23,,,,,,,,,,,,0R6P
-BLD-AU,BLD,BORAL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,372,584.82",30-Jun-23,,,,,,,,,,,,0QMN
-RRL-AU,RRL,REGIS RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"2,342,655.92",30-Jun-23,,,,,,,,,,,,0Q7I
-CRN-AU,CRN,CORONADO GLOBAL RESOURCES CDI INC,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"2,715,497.40",30-Jun-23,,,,,,,,,,,,PPGV
-LOV-AU,LOV,LOVISA HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"2,952,855.84",30-Jun-23,,,,,,,,,,,,M0TT
-ARF-AU,ARF,ARENA REIT STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"2,617,568.30",30-Jun-23,,,,,,,,,,,,KGJZ
-UMG-AU,UMG,UNITED MALT GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"2,822,252.45",30-Jun-23,,,,,,,,,,,,R0NU
-MFG-AU,MFG,MAGELLAN FINANCIAL GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"2,692,789.44",30-Jun-23,,,,,,,,,,,,0PUO
-EVT-AU,EVT,EVT LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"2,607,634.83",30-Jun-23,,,,,,,,,,,,0PFZ
-HMC-AU,HMC,HMC CAPITAL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"2,602,991.92",30-Jun-23,,,,,,,,,,,,WP8U
-MND-AU,MND,MONADELPHOUS GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"2,788,424.80",30-Jun-23,,,,,,,,,,,,0PXQ
-NAN-AU,NAN,NANOSONICS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"2,258,197.20",30-Jun-23,,,,,,,,,,,,0PYX
-FBU-AU,FBU,FLETCHER BUILDING LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"2,252,274.05",30-Jun-23,,,,,,,,,,,,0R63
-CXO-AU,CXO,CORE LITHIUM LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"1,564,679.72",30-Jun-23,,,,,,,,,,,,0R03
-KAR-AU,KAR,KAROON ENERGY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"2,562,428.68",30-Jun-23,,,,,,,,,,,,0RDO
-NWL-AU,NWL,NETWEALTH GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"2,489,556.72",30-Jun-23,,,,,,,,,,,,OB9S
-CNI-AU,CNI,CENTURIA CAPITAL STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"2,026,915.20",30-Jun-23,,,,,,,,,,,,0QPN
-NWH-AU,NWH,NRW HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"2,444,243.08",30-Jun-23,,,,,,,,,,,,0Q0G
-SYA-AU,SYA,SAYONA MINING LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"2,000,561.88",30-Jun-23,,,,,,,,,,,,0R1U
-ELD-AU,ELD,ELDERS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"2,105,565.84",30-Jun-23,,,,,,,,,,,,0R37
-SPK-AU,SPK,SPARK NEW ZEALAND LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"2,242,660.88",30-Jun-23,,,,,,,,,,,,0QE3
-ASK-AU,ASK,ABACUS PROPERTY GROUP STAPLED UNIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"1,012,015.62",30-Jun-23,,,,,,,,,,,,ATVU6
-PNV-AU,PNV,POLYNOVO LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"2,088,576.30",30-Jun-23,,,,,,,,,,,,0QO2
-CKF-AU,CKF,COLLINS FOODS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"2,176,914.19",30-Jun-23,,,,,,,,,,,,0QZ6
-SLR-AU,SLR,SILVER LAKE RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"1,686,191.50",30-Jun-23,,,,,,,,,,,,0QAG
-DHG-AU,DHG,DOMAIN HOLDINGS AUSTRALIA LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"1,931,658.36",30-Jun-23,,,,,,,,,,,,OB4H
-ING-AU,ING,INGHAMS GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"2,606,299.65",30-Jun-23,,,,,,,,,,,,NKFN
-CQE-AU,CQE,CHARTER HALL SOCIAL INFRASTRUCTURE,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"1,882,499.24",30-Jun-23,,,,,,,,,,,,0PKL
-JLG-AU,JLG,JOHNS LYNG GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"2,081,165.73",30-Jun-23,,,,,,,,,,,,O9SV
-NWS-AU,NWS,NEWS CORPORATION CLASS B VOTING CD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"2,249,734.90",30-Jun-23,,,,,,,,,,,,K41X
-BGA-AU,BGA,BEGA CHEESE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"1,935,567.13",30-Jun-23,,,,,,,,,,,,0QLG
-WAF-AU,WAF,WEST AFRICAN RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"1,767,415.20",30-Jun-23,,,,,,,,,,,,0QIC
-GOZ-AU,GOZ,GROWTHPOINT PROPERTIES AUSTRALIA R,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"1,414,993.30",30-Jun-23,,,,,,,,,,,,0R90
-LNK-AU,LNK,LINK ADMINISTRATION HLDG PTY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"1,404,512.80",30-Jun-23,,,,,,,,,,,,MUME
-CMW-AU,CMW,CROMWELL PROPERTY GROUP STAPLED UN,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"1,403,047.87",30-Jun-23,,,,,,,,,,,,0R0Q
-IMU-AU,IMU,IMUGENE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"889,020.56",30-Jun-23,,,,,,,,,,,,0RBG
-BRN-AU,BRN,BRAINCHIP HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"1,022,235.83",30-Jun-23,,,,,,,,,,,,0QKS
-SYR-AU,SYR,SYRAH RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"711,752.54",30-Jun-23,,,,,,,,,,,,0QDG
-LKE-AU,LKE,LAKE RESOURCES,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"688,972.59",30-Jun-23,,,,,,,,,,,,0REK
-ABG-AU,ABG,Abacus Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"284,000.00",30-Jun-23,,,,,,,,,,,,0P8S
-TRS-AU,TRS,The Reject Shop Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"203,000.00",30-Jun-23,,,,,12,13,14,15,16,,,#N/A
+﻿Code,LocalCode,Name,G0,G1,G2,G3,G4,G5,G6,PeerGroup,OptimiserCategory,Type,MCap$,MCapDate,P/ERatio,P/BookRatio,EPSGrowth,DivYield,IRDuration,Hurdle,E-score,S-score,G-score,ESG-score,Controversy-score,Controversy-Items,,Citicode
+IOZ-AU,,iShares Core S&P/ASX 200 ETF,Growth,Australian Shares,Australian Shares,Australian Shares,ETF Index,Core,,Australia Large Blend Equity,Australian Equities,ETF,,,,,,,,,,,,,,,,G1ED
+VGS-AU,,Vanguard MSCI Index International Shares ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Developed ,AUD,World Large Blend Equity,International Equities - Unhedged,ETF,,,,,,,,,,,,,,,,MQVY
+VGAD-AU,,Vanguard MSCI Index International Shares (hedged) ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Developed ,Local,World Currency Hedged Equity,International Equities - Hedged,ETF,,,,,,,,,,,,,,,,M7YI
+IVV-AU,,iShares S&P 500 ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,US,AUD,World Other Equity,International Equities - Unhedged,ETF,,,,,,,,,,,,,,,,K49D
+IHVV-AU,,iShares S&P 500 AUD Hedged ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,US,USD,World Other Equity,International Equities - Unhedged,ETF,,,,,,,,,,,,,,,,NSHL
+IEU-AU,,iShares Europe ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Europe,AUD,Europe Equity,International Equities - Unhedged,ETF,,,,,,,,,,,,,,,,K49G
+VEQ-AU,,Vanguard FTSE Europe Shares ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Europe,AUD,Europe Equity,International Equities - Unhedged,ETF,,,,,,,,,,,,,,,,MWZQ
+IJP-AU,,iShares MSCI Japan ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Japan,AUD,World Other Equity,International Equities - Unhedged,ETF,,,,,,,,,,,,,,,,K49L
+IEM-AU,,iShares MSCI Emerging Markets ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Emerging,AUD,Emerging Markets Equity,International Equities - Emerging,ETF,,,,,,,,,,,,,,,,K49J
+IZZ-AU,,iShares China Large-Cap ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Emerging,AUD,Asia Pacific ex Japan Equity,International Equities - Unhedged,ETF,,,,,,,,,,,,,,,,K49C
+WVOL-AU,,iShares Edge MSCI World Min Vol ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Developed ,AUD,World Large Blend Equity,International Equities - Unhedged,ETF,,,,,,,,,,,,,,,,NSHQ
+VBLD-AU,,Vanguard Global Infrastructure Index ETF,Growth,Real Assets,Alternatives,Alternatives (Growth),ETF Index,,,Global Infrastructure,Global Unlisted Infrastructure,ETF,,,,,,,,,,,,,,,,PPY2
+IAF-AU,,iShares Core Composite Bond ETF,Defensive,Long Duration,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Australian Bonds,Australian Fixed Interest,ETF,,,,,,,5.8,,,,,,,,,G1EH
+ILB-AU,,iShares Government Inflation ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Inflation linked Bonds,Inflation Linked Government Bonds,ETF,,,,,,,6.7,,,,,,,,,G1EI
+FLOT-AU,,VanEck Australian Floating Rate ETF,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Diversified Credit,Floating High Yield Credit,ETF,,,,,,,0.15,,,,,,,,,O64U
+BHYB-AU,,BetaShares Australian Major Bank Hybrids Index ETF,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Global Bonds ,International Fixed Interest,ETF,,,,,,,0.2,,,,,,,,,WCIX
+VBND-AU,,Vanguard Global Agg Bond Index (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Global Bonds ,International Fixed Interest,ETF,,,,,,,8.2,,,,,,,,,O8LC
+AESG-AU,,iShares Global Aggregate Bond ESG (AUD Hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Global Bonds ,International Fixed Interest,ETF,,,,,,,8.1,,,,,,,,,YNPV
+IGB-AU,,iShares Treasury ETF,Defensive,Long Duration,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Australian Bonds,Australian Fixed Interest,ETF,,,,,,,7.8,,,,,,,,,G1EJ
+IHCB-AU,,iShares Core Global Corporate Bond (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Diversified Credit,Floating High Yield Credit,ETF,,,,,,,6.1,,,,,,,,,MXCD
+IHHY-AU,,iShares Global High Yield Bond (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Yield Credit Equity,Floating High Yield Credit,ETF,,,,,,,5.2,,,,,,,,,MXCE
+IHEB-AU,,iShares USD EM Bond (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Global Bonds ,International Fixed Interest,ETF,,,,,,,4.5,,,,,,,,,NSHM
+ISEC-AU,,iShares Enhanced Cash ETF,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Domestic Cash,Cash,ETF,,,,,,,0.3,,,,,,,,,O0HC
+BILL-AU,,iShares Core Cash ETF,Defensive,Cash,Cash,Cash,ETF Index,,,Domestic Cash,Cash,ETF,,,,,,,0.15,,,,,,,,,O0HD
+AUD,,Bank Account,Defensive,Cash,Cash,Cash,ETF Index,,,Domestic Cash,Cash,Acc,,,,,,,,,,,,,,,,
+HOW2217AU,,Merlon Concentrated Australian Share Fund,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Large Blend Equity,Australian Equities,MF,,,,,,,,,,,,,,,,PJL7
+SCH0101AU,,Schroder Australian Equity Fund W Class,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Large Blend Equity,Australian Equities,MF,,,,,,,,,,,,,,,,EOU3
+AAP5529AU,,Ausbil Australian SmallCap Fund,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Mid Small Blend Equity,Australian Equities - Small Cap,MF,,,,,,,,,,,,,,,,R2JU
+CNA0812AU,,Invesco Wholesale Australian Smaller Companies,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Mid Small Blend Equity,Australian Equities - Small Cap,MF,,,,,,,,,,,,,,,,LXV5
+ALR2783AU,,Australian Eagle Trust,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Large Blend Equity,Australian Equities,MF,,,,,,,,,,,,,,,,P9IY
+HOW0035AU,,Greencape High Conviction Fund,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Large Growth Equity,Australian Equities,MF,,,,,,,,,,,,,,,,L1M8
+PIM0028AU,,DNR Capital Australian Equities High Conviction Fund,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Large Blend Equity,Australian Equities,MF,,,,,,,,,,,,,,,,MFGP
+DDH0002AU,,DDH Selector Australian Equities,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Mid Small Growth Equity,Australian Equities - Small Cap,MF,,,,,,,,,,,,,,,,LQC5
+ANT0002AU,,Fairview Equity Partners Emerging Companies Fund,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Mid Small Growth Equity,Australian Equities - Small Cap,MF,,,,,,,,,,,,,,,,L9O8
+RFA0818AU,,Pendal Australian Share Fund,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Large Blend Equity,Australian Equities,MF,,,,,,,,,,,,,,,,LTD7
+ASX6124AU,,Auscap Long Short Australian Equities,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Long Short Equity,Australian Equities,MF,,,,,,,,,,,,,,,,PWZ6
+VAE-AU,,Vanguard FTSE Asia ex Japan Shares Index ETF,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,Asia Pacific ex Japan Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,,,MYBH
+ETL7377AU,,GQG Partners Global Equity Fund - A Class,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Large Growth Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,,,Q62M
+HOW6479AU,,Ox Capital Dynamic Emerging Markets Fund,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,Emerging Markets Equity,International Equities - Emerging,MF,,,,,,,,,,,,,,,,DYWK
+GSF6910AU,,Man GLG Asia Opportunitie,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,Asia Pacific ex Japan Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,,,STSP
+PIM7802AU,,Fairlight Global Small & Mid Cap Fund (SMID) Class A,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Mid Small Equity,International Equities - Small Cap,MF,,,,,,,,,,,,,,,,Q2PQ
+MAQ0633AU,,Macquarie True Index International Equities,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Large Blend Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,,,LSN5
+AAP8285AU,,Ausbil Global SmallCap Fund,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Mid Small Equity,International Equities - Small Cap,MF,,,,,,,,,,,,,,,,PHP8
+FRT0009AU,,Franklin Global Growth Fund,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Large Growth Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,,,06RO
+MUA0002AU,,Munro Global Growth Fund,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Other Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,,,NCYH
+SWI1413AU,,WCM Quality Global Growth Fund (Managed Fund) Class A (Unhedged),Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Large Growth Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,,,QG7W
+ETL0483AU,,Pzena Emerging Markets Value Fund,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,Emerging Markets Equity,International Equities - Emerging,MF,,,,,,,,,,,,,,,,DNSP
+ETL4207AU,,GQG Partners Emerging Markets Equity Fund - A Class,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,Emerging Markets Equity,International Equities - Emerging,MF,,,,,,,,,,,,,,,,Q62L
+ETL0171AU,,AXA IM Sustainable Equity Fund,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Large Blend Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,,,E2KF
+BLK4709AU,,BlackRock iShares WholeSale Australian Listed Property Index,Growth,Real Assets,Alternatives,Alternatives (Growth),Active Manager,,,Australia Real Estate Equity,AREITs,MF,,,,,,,,,,,,,,,,CSRF
+BLK9419AU,,BlackRock iShares Global Listed Property Index,Growth,Real Assets,Alternatives,Alternatives (Growth),Active Manager,,,Global Real Estate,GREITs,MF,,,,,,,,,,,,,,,,WSQP
+LAM0044AU,,Alceon Australian Property,Growth,Real Assets,Alternatives,Alternatives (Growth),Active Manager,,,Direct Property,Australian Direct Property,MF,,,,,,,,,,,,,,,,MQWT
+GTU5547AU,,Invesco Global Real Estate Fund - Class A,Growth,Real Assets,Alternatives,Alternatives (Growth),Active Manager,,,Direct Property,Australian Direct Property,MF,,,,,,,,,,,,,,,,QMZ8
+TGP0016AU,,ClearBridge RARE Infrastructure Income Fund - Hedged,Growth,Real Assets,Alternatives,Alternatives (Growth),Active Manager,,,Global Infrastructure - Currency Hedged,Global Listed Infrastructure - hedged,MF,,,,,,,,,,,,,,,,07EN
+GPEQ-AU,,VanEck Global Listed Private Equity ETF,Growth,Alternatives,Alternatives,Alternatives (Growth),Active Manager,,,Alternatives - Growth Illiquid,Alternatives - Growth Illiquid,MF,,,,,,,,,,,,,,,,T4VJ
+AUS0035AU,,Talaria Global Equity (Managed Fund),Growth,Alternatives,Alternatives,Alternatives (Growth),Active Manager,,,World Other Equity,International Equities - Unhedged,MF,,,,,,,,,,,,,,,,LBL2
+EQI4297AU,,abrdn Global Risk Mitigation Fund,Growth,Alternatives,Alternatives,Alternatives (Growth),Active Manager,,,Alternatives - Defensive Liquid,Alternatives - Defensive Liquid,MF,,,,,,,,,,,,,,,,VQJP
+MAQ5143AU,,P/E Global FX Alpha Fund,Growth,Alternatives,Alternatives,Alternatives (Growth),Active Manager,,,Alternatives - Defensive Liquid,Alternatives - Defensive Liquid,MF,,,,,,,,,,,,,,,,NU4K
+SCH0038AU,,Schroder Specialist Private Equity Fund,Growth,Alternatives,Alternatives,Alternatives (Growth),Active Manager,,,Alternatives - Growth Illiquid,Alternatives - Growth Illiquid,MF,,,,,,,,,,,,,,,,D0IE
+ETL2119AU,,LGT Capital Multi-Alternatives Australia,Growth,Alternatives,Alternatives,Alternatives (Defensive),Active Manager,,,Alternatives - Growth Illiquid,Alternatives - Growth Illiquid,MF,,,,,,,,,,,,,,,,DHCC
+PIM1038AU,,Ruffer Total Return International - Australia Fund,Growth,Alternatives,Alternatives,Alternatives (Defensive),Active Manager,,,Alternatives - Defensive Liquid,Alternatives - Defensive Liquid,MF,,,,,,,,,,,,,,,,LK5Q
+CNA0805AU,,Invesco Wholesale Senior Secured Income Fund,Growth,Alternatives,Alternatives,Alternatives (Defensive),Active Manager,,,Alternatives - Defensive illiquid,Alternatives - Defensive Illiquid,MF,,,,,,,,,,,,,,,,LXU7
+PER0728AU,,BMO Pyrford Global Absolute Return,Growth,Alternatives,Alternatives,Alternatives (Defensive),Active Manager,,,Diversified Flexible,Balance,MF,,,,,,,,,,,,,,,,M4CJ
+WHT5134AU,,Firetrail Absolute Return Fund - Class A,Growth,Alternatives,Alternatives,Alternatives (Growth),Active Manager,,,Alternatives - Defensive Liquid,Alternatives - Defensive Liquid,MF,,,,,,,,,,,,,,,,P2P2
+SSB0122AU,,Western Asset Australian Bond Fund - Class A,Defensive,Long Duration,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Australian Bonds,Australian Fixed Interest,MF,,,,,,,,,,,,,,,,N3D5
+ETL5525AU,,Colchester Global Government Bond Fund Class I,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Global Bonds ,International Fixed Interest,MF,,,,,,,,,,,,,,,,NRLJ
+FRT0027AU,,Franklin Australian Absolute Return Bond Fund — W Class,Defensive,Long Duration,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Global Bonds ,International Fixed Interest,MF,,,,,,,,,,,,,,,,M2MZ
+ETL0018AU,,PIMCO Global Bond Fund — Wholesale Class,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Global Bonds ,International Fixed Interest,MF,,,,,,,,,,,,,,,,09X2
+ETL0019AU,,PIMCO Global Credit Fund — Wholesale Class,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Diversified Credit,Floating High Yield Credit,MF,,,,,,,,,,,,,,,,09X4
+CIM0008AU,,Capital Group New Perspective Fund Hedged (AU),Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,Active Manager,,,World Currency Hedged Equity,International Equities - Hedged,MF,,,,,,,,,,,,,,,,MWDC
+IOF0127AU,,Janus Henderson Diversified Credit Fund,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Diversified Credit,Floating High Yield Credit,MF,,,,,,,,,,,,,,,,I80V
+WPC1963AU,,Daintree Core Income Trust,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Global Bonds ,International Fixed Interest,MF,,,,,,,,,,,,,,,,O0NZ
+CSA0038AU,,Bentham Global Income Fund,Defensive,Floating Rate,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Global Bonds ,International Fixed Interest,MF,,,,,,,,,,,,,,,,L1O7
+JBW4379AU,,Yarra Absolute Credit Fund,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Diversified Credit,Floating High Yield Credit,MF,,,,,,,,,,,,,,,,TGYL
+HOW0098AU,,Ardea Real Outcome Fund,Defensive,Floating Rate,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Global Bonds ,International Fixed Interest,MF,,,,,,,,,,,,,,,,GMLG
+IOF0145AU,,Janus Henderson Tactical Income Fund,Defensive,Floating Rate,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Australian Bonds,Australian Fixed Interest,MF,,,,,,,,,,,,,,,,LFL1
+HOW0052AU,,Kapstream Absolute Return Income Fund,Defensive,Floating Rate,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Global Bonds ,International Fixed Interest,MF,,,,,,,,,,,,,,,,L1N5
+OMF0005AU,,Alexander Credit Opportunities Fund,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Diversified Credit,Floating High Yield Credit,MF,,,,,,,,,,,,,,,,M1WA
+OMF0018AU,,Realm High Income,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Diversified Credit,Floating High Yield Credit,MF,,,,,,,,,,,,,,,,NFZV
+SAI0004AU,,Arrow Primary Infrastructure Fund ,Defensive,Real Assets,Alternatives,Alternatives (Growth),Active Manager,,,,,MF,,,,,,,,,,,,,,,,
+FSM8350AU,,Federation Alternative Investments II WS,Defensive,Real Assets,Alternatives,Alternatives (Growth),Active Manager,,,,,MF,,,,,,,,,,,,,,,,L7US
+ETL6849AU,,Federation Alternative Investments Ret,Defensive,Real Assets,Alternatives,Alternatives (Growth),Active Manager,,,,,MF,,,,,,,,,,,,,,,,RY5L
+ETL0379AU,,GAM FCM ILS Yield A,Defensive,Floating Rate,Global Fixed Interest,Alternatives (Growth),Active Manager,,,,,MF,,,,,,,,,,,,,,,,
+SSB0495AU,,Franklin K2 Athena Fund,Growth,Alternatives,Alternatives,Alternatives (Growth),Active Manager,,,,,MF,,,,,,,,,,,,,,,,ATUGV
+JBW0052AU,,Yarra Ex-20 Australian Equities Fund,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Large Blend Equity,Australian Equities,MF,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ATCHBM00001,,CPI,,,,,,,,,,BM,,,,,,,,0,,,,,,,,KTKN.N
+ATCHBM00001_25,,CPI + 0.25% p.a.,,,,,,,,,,BM,,,,,,,,0.25,,,,,,,,0
+ATCHBM00001_50,,CPI + 0.5% p.a.,,,,,,,,,,BM,,,,,,,,0.5,,,,,,,,0
+ATCHBM00001_75,,CPI + 0.75% p.a.,,,,,,,,,,BM,,,,,,,,0.75,,,,,,,,0
+ATCHBM00001_100,,CPI + 1% p.a.,,,,,,,,,,BM,,,,,,,,1,,,,,,,,0
+ATCHBM00001_125,,CPI + 1.25% p.a.,,,,,,,,,,BM,,,,,,,,1.25,,,,,,,,0
+ATCHBM00001_150,,CPI + 1.5% p.a.,,,,,,,,,,BM,,,,,,,,1.5,,,,,,,,0
+ATCHBM00001_175,,CPI + 1.75% p.a.,,,,,,,,,,BM,,,,,,,,1.75,,,,,,,,0
+ATCHBM00001_200,,CPI + 2% p.a.,,,,,,,,,,BM,,,,,,,,2,,,,,,,,0
+ATCHBM00001_225,,CPI + 2.25% p.a.,,,,,,,,,,BM,,,,,,,,2.25,,,,,,,,0
+ATCHBM00001_250,,CPI + 2.5% p.a.,,,,,,,,,,BM,,,,,,,,2.5,,,,,,,,0
+ATCHBM00001_275,,CPI + 2.75% p.a.,,,,,,,,,,BM,,,,,,,,2.75,,,,,,,,0
+ATCHBM00001_300,,CPI + 3% p.a.,,,,,,,,,,BM,,,,,,,,3,,,,,,,,0
+ATCHBM00001_325,,CPI + 3.25% p.a.,,,,,,,,,,BM,,,,,,,,3.25,,,,,,,,0
+ATCHBM00001_350,,CPI + 3.5% p.a.,,,,,,,,,,BM,,,,,,,,3.5,,,,,,,,0
+ATCHBM00001_375,,CPI + 3.75% p.a.,,,,,,,,,,BM,,,,,,,,3.75,,,,,,,,0
+ATCHBM00001_400,,CPI + 4% p.a.,,,,,,,,,,BM,,,,,,,,4,,,,,,,,0
+ATCHBM00001_425,,CPI + 4.25% p.a.,,,,,,,,,,BM,,,,,,,,4.25,,,,,,,,0
+ATCHBM00001_450,,CPI + 4.5% p.a.,,,,,,,,,,BM,,,,,,,,4.5,,,,,,,,0
+ATCHBM00001_475,,CPI + 4.75% p.a.,,,,,,,,,,BM,,,,,,,,4.75,,,,,,,,0
+ATCHBM00001_500,,CPI + 5% p.a.,,,,,,,,,,BM,,,,,,,,5,,,,,,,,0
+ATCHBM00001_525,,CPI + 5.25% p.a.,,,,,,,,,,BM,,,,,,,,5.25,,,,,,,,0
+ATCHBM00001_550,,CPI + 5.5% p.a.,,,,,,,,,,BM,,,,,,,,5.5,,,,,,,,0
+ATCHBM00001_575,,CPI + 5.75% p.a.,,,,,,,,,,BM,,,,,,,,5.75,,,,,,,,0
+ATCHBM00001_600,,CPI + 6% p.a.,,,,,,,,,,BM,,,,,,,,6,,,,,,,,0
+ATCHBM00001_625,,CPI + 6.25% p.a.,,,,,,,,,,BM,,,,,,,,6.25,,,,,,,,0
+ATCHBM00001_650,,CPI + 6.5% p.a.,,,,,,,,,,BM,,,,,,,,6.5,,,,,,,,0
+ATCHBM00001_675,,CPI + 6.75% p.a.,,,,,,,,,,BM,,,,,,,,6.75,,,,,,,,0
+ATCHBM00001_700,,CPI + 7% p.a.,,,,,,,,,,BM,,,,,,,,7,,,,,,,,0
+ATCHBM00001_725,,CPI + 7.25% p.a.,,,,,,,,,,BM,,,,,,,,7.25,,,,,,,,0
+ATCHBM00001_750,,CPI + 7.5% p.a.,,,,,,,,,,BM,,,,,,,,7.5,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+ATCHBM00002,,AMI Alternative,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:ALT.X
+ATCHBM00003,,AMI Cash - Australian Dollar,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:CAD.X
+ATCHBM00004,,AMI Fixed Int - Australian Bond,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:FAD.X
+ATCHBM00005,,AMI Fixed Int - Global Bond,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:GLF.X
+ATCHBM00006,,AMI Fixed Int - Inflation Linked Bonds,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:FIL.X
+ATCHBM00007,,AMI Commodity & Energy,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:COM.X
+ATCHBM00008,,AMI Fixed Int - Diversified Credit,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:FXC.X
+ATCHBM00009,,AMI Equity - Asia Pacific ex Japan,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:AXJ.X
+ATCHBM00010,,AMI Equity - Australia Equity Income,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:EAE.X
+ATCHBM00011,,AMI Equity - Australia,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:EQA.X
+ATCHBM00012,,AMI Equity - Australia Small/Mid Cap,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:EAS.X
+ATCHBM00013,,AMI Property - Australia Listed,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:ALP.X
+ATCHBM00014,,AMI Equity - Emerging Markets,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:IEM.X
+ATCHBM00015,,AMI Equity - Europe,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:EUQ.X
+ATCHBM00016,,AMI Equity - Infrastructure,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:EIF.X
+ATCHBM00017,,AMI Property - Global,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:PRP.X
+ATCHBM00018,,AMI Equity - Global,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:IEG.X
+ATCHBM00019,,AMI Equity - Global Small/Mid Cap,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:ASC.X
+ATCHBM00020,,AMI Equity - Global Hedged,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:EGH.X
+ATCHBM00021,,AMI Fixed Int - Mortgages,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:FMT.X
+ATCHBM00022,,AMI Mixed Asset - Aggressive,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:IMG.X
+ATCHBM00023,,AMI Mixed Asset - Balanced,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:IMB.X
+ATCHBM00024,,AMI Mixed Asset - Cautious,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:IMC.X
+ATCHBM00025,,AMI Mixed Asset - Flexible,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:IMF.X
+ATCHBM00026,,AMI Mixed Asset - Growth,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:MAG.X
+ATCHBM00027,,AMI Mixed Asset - Moderate,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:MAM.X
+ATCHBM00028,,AMI Property - Australia Direct,,,,,,,,,,PeerGroup,,,,,,,,,,,,,,,,MI:ADP.X
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BHP-AU,BHP,BHP GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"445,998,922.92",30-Jun-23,8.445665442,1.601275096,29.25694611,4.661676589,,,14.3,8.1,4.2,27,4,Thermal coal,,0QLN
+CBA-AU,CBA,COMMONWEALTH BANK OF AUSTRALIA,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"343,608,203.97",30-Jun-23,26.72734109,2.048745517,0,4.488634772,,,1,11.8,10.3,23,3,None,,0S1Q
+CSL-AU,CSL,CSL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"260,005,549.96",30-Jun-23,33.51179113,2.18204526,11.1376,4.722922937,,,1.9,15.3,7.2,24,2,Animal testing,,0R0X
+NAB-AU,NAB,NATIONAL AUSTRALIA BANK LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"179,147,426.73",30-Jun-23,12.97776504,2.301687072,24.35081526,4.547676066,,,2.1,11.3,10.1,24,3,None,,0PZ0
+WBC-AU,WBC,WESTPAC BANKING CORPORATION CORP,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"153,078,196.96",30-Jun-23,18.86518879,2.839371269,52.38101884,3.552570703,,,1.7,10.5,11.9,24,4,None,,0SBN
+ANZ-AU,ANZ,ANZ GROUP HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"149,574,119.32",30-Jun-23,10.18570664,2.363068872,66.92405047,4.856574266,,,1.9,10.1,7.5,19,3,None,,0P46
+WDS-AU,WDS,WOODSIDE ENERGY GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"146,448,641.91",30-Jun-23,14.34057998,2.397511333,150.8571,4.201280131,,,18.2,7.1,6.3,32,2,None,,0QJ4
+MQG-AU,MQG,MACQUARIE GROUP LTD DEF,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"127,691,335.21",30-Jun-23,7.692512144,2.748983879,88.61711937,2.609647022,,,1.9,11.4,109,24,2,None,,0PUJ
+WES-AU,WES,WESFARMERS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"118,388,952.00",30-Jun-23,23.1026339,2.363122168,11.738,2.841586431,,,4.9,5.1,3.4,13,2,None,,0QIA
+TLS-AU,TLS,TELSTRA GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"94,803,489.68",30-Jun-23,20.66632447,1.869941588,27.5057,3.836997496,,,4.9,12.6,6.3,24,2,None,,T6J3
+WOW-AU,WOW,WOOLWORTHS GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"93,336,266.55",30-Jun-23,14.92176133,2.011064116,12.1997,3.028649233,,,6.3,8.9,4.2,19,2,None,,0QJ5
+TCL-AU,TCL,TRANSURBAN GROUP STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"82,492,551.60",30-Jun-23,22.56605068,1.837233281,70.1873,2.467531134,,,1.6,3.5,3.9,9,2,None,,0QFI
+RIO-AU,RIO,RIO TINTO LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"81,957,603.00",30-Jun-23,12.34765035,1.855730867,-39.0351,3.628069889,,,14.6,11,6.6,32,4,Thermal coal,,0Q8F
+FMG-AU,FMG,FORTESCUE METALS GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"72,541,642.81",30-Jun-23,18.31301137,2.03715424,-12.018,2.061824228,,,12.7,7.8,4.5,25,2,None,,0R6E
+GMG-AU,GMG,GOODMAN GROUP UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"79,084,959.72",30-Jun-23,5.230927579,1.285420785,-53.1221,3.825587482,,,2.1,3.2,4.4,10,1,None,,0R8G
+ALL-AU,ALL,ARISTOCRAT LEISURE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"53,596,190.16",30-Jun-23,4.866022003,1.410369454,99.59431518,7.210589477,,,2.2,11.4,8.3,22,1,None,,0PIJ
+STO-AU,STO,SANTOS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"51,849,087.16",30-Jun-23,21.42572816,2.31256548,146.7424,3.04207481,,,20.9,9.6,9.1,40,2,None,,0Q9B
+COL-AU,COL,COLES GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"43,605,348.41",30-Jun-23,16.46680074,1.819039488,-4.0677,6.364833036,,,,,,17.5,,None,,PSY2
+NCM-AU,NCM,NEWCREST MINING LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"46,587,981.00",30-Jun-23,15.56903493,1.989445466,-8.5635,5.718558754,,,15,7.5,5.3,28,3,None,,0PZJ
+QBE-AU,QBE,QBE INSURANCE GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"44,220,683.43",30-Jun-23,13.83340511,1.320211818,13.8433,2.030352537,,,1,9.8,8.4,19,2,None,,0Q5R
+BXB-AU,BXB,BRAMBLES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"40,001,895.10",30-Jun-23,13.69447291,1.1487959,12.4605,6.454693357,,,1.4,8.6,4.1,14,0,None,,0QMZ
+JHX-AU,JHX,JAMES HARDIE INDUSTRIES CDI PLC,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"39,916,368.20",30-Jun-23,20.94061747,2.079682193,-4.4086,3.90996157,,,15.8,7.6,6.8,30,2,None,,0RD4
+SUN-AU,SUN,SUNCORP GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"33,811,832.25",30-Jun-23,30.07412552,2.102790667,179.1325,4.339364585,,,0.9,8.9,9,19,2,None,,0QCU
+S32-AU,S32,SOUTH32 LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"32,439,209.76",30-Jun-23,3.378652031,1.540824972,-72.9154,5.055567927,,,14.6,6.2,4.3,25,2,None,,MCNP
+XRO-AU,XRO,XERO LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"34,098,281.79",30-Jun-23,15.53519863,2.81708197,158.5155,5.245673307,,,,,,16.1,,None,,GZYP
+SHL-AU,SHL,SONIC HEALTHCARE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"30,625,745.16",30-Jun-23,21.19766995,2.573022538,-52.7545,5.411152036,,,0.1,11.1,6.9,18,1,None,,0QB9
+COH-AU,COH,COCHLEAR LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"35,632,125.58",30-Jun-23,11.29653978,1.771592403,6.6684,4.050291696,,,3,16.8,9.5,29,1,Animal testing,,0QYZ
+WTC-AU,WTC,WISETECHGLOBAL PTY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"25,773,794.70",30-Jun-23,25.09665989,3.019507254,26.9171,3.992978433,,,,,,19.4,,None,,N42K
+SCG-AU,SCG,SCENTRE GROUP,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"28,837,757.69",30-Jun-23,20.84819812,2.202697327,3.2255,5.134454897,,,1.1,2.6,4.6,8,2,None,,KLDW
+IAG-AU,IAG,INSURANCE AUSTRALIA GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"28,445,576.32",30-Jun-23,4.412983392,2.110352858,136.25,2.761346945,,,1.4,9.8,8.6,20,2,None,,0RBY
+ORG-AU,ORG,ORIGIN ENERGY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Utilities,,,,,ASXStock,"30,461,840.00",30-Jun-23,35.52113261,2.483720473,146.8123,4.252607042,,,,,,36.8,,None,,0Q1R
+CPU-AU,CPU,COMPUTERSHARE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"28,923,971.45",30-Jun-23,42.59748076,1.892181927,129.4645,8.313092324,,,4.6,11.4,5.7,22,0,None,,0QZG
+NST-AU,NST,NORTHERN STAR RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"26,327,455.43",30-Jun-23,3.340509486,2.548320509,130.4951,4.905093822,,,,,,34.7,,None,,0Q0A
+RMD-AU,RMD,RESMED CDI INC,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"20,158,378.90",30-Jun-23,22.02864629,1.554202454,14.9525,4.805470797,,,,,,26.4,,None,,0Q7O
+PLS-AU,PLS,PILBARA MINERALS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"25,058,919.50",30-Jun-23,31.18760006,2.012068369,318.3502,3.234840094,,,,,,40.2,,None,,0Q41
+MIN-AU,MIN,MINERAL RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"22,874,881.34",30-Jun-23,17.44377976,1.967084098,23.4856,5.107105269,,,,,,21.5,,None,,0PX3
+ASX-AU,ASX,ASX LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"22,742,623.04",30-Jun-23,17.52904695,1.368308373,1.4379,5.393233461,,,2.6,7.9,9.1,20,2,None,,0PJ8
+QAN-AU,QAN,QANTAS AIRWAYS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"23,175,441.12",30-Jun-23,10.81857526,1.679938714,292.2535,5.124469712,,,,,,27.8,,None,,0Q5Q
+APA-AU,APA,APA GROUP UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Utilities,,,,,ASXStock,"21,007,518.35",30-Jun-23,6.045360939,1.82999442,1.9438,4.737623298,,,16.2,11.9,5.8,34,2,None,,0PGR
+TLC-AU,TLC,THE LOTTERY CORPORATION LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"22,840,447.80",30-Jun-23,13.64069257,1.873046331,12.0787,5.102977655,,,,,,27.2,,Gaming,,VBNO
+RHC-AU,RHC,RAMSAY HEALTH CARE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"18,419,597.46",30-Jun-23,22.24698949,0.934795312,43.2631,3.1253344,,,3.2,11.2,7,21,1,Catholic values,,0Q6D
+SGP-AU,SGP,STOCKLAND STAPLED UNITS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"20,348,678.43",30-Jun-23,21.39963573,2.095782784,16.9606,4.618148958,,,2.6,2.5,4,9,0,None,,0QC6
+BSL-AU,BSL,BLUESCOPE STEEL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"19,299,324.66",30-Jun-23,6.062776237,2.392491772,-59.6819,8.200433142,,,13.3,11.6,6.4,31,2,None,,0QMI
+MPL-AU,MPL,MEDIBANK PRIVATE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"20,098,107.54",30-Jun-23,37.26073514,2.314836929,30.9015,5.340165433,,,2.3,11.5,7.8,22,4,None,,KZ1K
+IGO-AU,IGO,IGO LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"17,854,849.44",30-Jun-23,26.04406296,2.23313265,-71.8014,3.143632517,,,,,,26.9,,None,,0RBK
+MGR-AU,MGR,MIRVAC GROUP STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"18,874,463.40",30-Jun-23,8.830320907,2.401194973,-19.1131,3.925217956,,,1.9,2.4,4.4,9,2,None,,0PXD
+CAR-AU,CAR,CARSALES.COM LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"21,312,795.50",30-Jun-23,21.23355248,2.313394136,31.984,3.884063268,,,,,,20.8,,None,,0QOV
+AKE-AU,AKE,ALLKEM LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"17,006,206.28",30-Jun-23,23.05903549,1.777798524,85.8692,3.804937124,,,,,,38.1,,None,,0Q1X
+AMC-AU,AMC,AMCOR CDI PLC,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"18,117,730.69",30-Jun-23,12.64743056,1.942520673,-2.9993,3.894487487,,,,,,17.6,,None,,0PG5
+DXS-AU,DXS,DEXUS STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"16,709,717.20",30-Jun-23,22.0081945,3.001675134,-65.2886,6.25032723,,,2.5,0.8,3.4,7,0,None,,TEQW
+SEK-AU,SEK,SEEK LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"16,907,666.67",30-Jun-23,19.27747303,2.262924789,3.2532,1.586377025,,,,,,11.6,,None,,0Q9M
+EDV-AU,EDV,ENDEAVOUR GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"15,303,579.50",30-Jun-23,10.99873291,3.08284851,10.7142,4.697471557,,,,,,17.7,,None,,T98S
+GPT-AU,GPT,GPT GROUP STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"16,015,523.84",30-Jun-23,12.73280953,2.831074768,22.7749,3.637746049,,,2.1,2.8,5.3,10,1,None,,0R8J
+REA-AU,REA,REA GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"16,986,213.28",30-Jun-23,1.763858334,1.892373892,-2.3616,5.643628385,,,0.1,8.4,6.7,15,0,None,,0Q6N
+TWE-AU,TWE,TREASURY WINE ESTATES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"17,515,360.13",30-Jun-23,12.56157429,1.575284069,-3.2892,5.163094123,,,8.2,8.9,4.4,21,2,Alcoholic beverages,,0QFL
+SOL-AU,SOL,WASHINGTON H SOUL PATTINSON & COMP,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"16,021,771.54",30-Jun-23,21.88719403,2.268029532,-54.9213,6.106188447,,,,,,14.1,,None,,0QHX
+VCX-AU,VCX,VICINITY CENTRES,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"14,356,325.12",30-Jun-23,25.44937991,2.187552957,8.2796,5.751995924,,,2.9,1.6,4.3,9,1,None,,0QPL
+ALD-AU,ALD,AMPOL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"16,423,276.03",30-Jun-23,-5.198339705,2.775147772,29.781,2.985299072,,,19.3,8.7,4.8,33,1,None,,0QO1
+ALX-AU,ALX,ATLAS ARTERIA STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"15,097,078.02",30-Jun-23,10.28908821,2.518311783,95.0756,2.636178376,,,,,,7.3,,None,,0RFX
+AGL-AU,AGL,AGL ENERGY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Utilities,,,,,ASXStock,"13,445,180.00",30-Jun-23,17.02717938,2.524487835,-64.1579,6.279229683,,,21.8,6.4,4.4,33,2,None,,0PEX
+ORI-AU,ORI,ORICA LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"13,896,740.82",30-Jun-23,30.01477092,2.523727369,0,1.006328112,,,19.7,3.7,7.6,31,2,None,,0Q1O
+AZJ-AU,AZJ,AURIZON HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"13,865,481.92",30-Jun-23,17.87586374,2.537946543,-16.5714,5.972935511,,,,,,23.3,,None,,0Q5S
+EVN-AU,EVN,EVOLUTION MINING LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"13,048,973.17",30-Jun-23,3.028223333,2.312568961,-18.7887,2.644744003,,,,,,30,,None,,0R4Z
+NXT-AU,NXT,NEXTDC LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"14,406,268.98",30-Jun-23,16.0239799,2.023053894,-8.6267,3.396179531,,,,,,17.6,,None,,0PZR
+WOR-AU,WOR,WORLEY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"12,855,470.76",30-Jun-23,17.67854218,2.09860042,26.9841,3.697194085,,,,,,28.2,,None,,0QJB
+WHC-AU,WHC,WHITEHAVEN COAL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"11,575,645.20",30-Jun-23,26.48506521,1.196933145,32.7373,6.518208267,,,,,,51,,Thermal coal,,0QIW
+LYC-AU,LYC,LYNAS RARE EARTHS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"13,312,100.58",30-Jun-23,15.48665459,2.854302162,-47.0378,6.568403029,,,,,,23.2,,None,,0RFR
+SDF-AU,SDF,STEADFAST GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"11,825,065.44",30-Jun-23,9.658764201,2.416219749,29.089,4.298514581,,,,,,22.8,,None,,JLDL
+CWY-AU,CWY,CLEANAWAY WASTE MANAGEMENT LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"11,648,821.76",30-Jun-23,10.12301992,1.563960537,-9.162,6.733250564,,,,,,22.1,,None,,0QFG
+IPL-AU,IPL,INCITEC PIVOT LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"11,540,869.00",30-Jun-23,7.793098584,2.572718516,0,4.881734334,,,,,,28,,None,,0RBI
+LLC-AU,LLC,LENDLEASE GROUP STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"10,721,902.42",30-Jun-23,29.84115854,1.985575832,309.0909,3.88266399,,,5.2,7.9,7.7,21,2,None,,0RF1
+ALQ-AU,ALQ,ALS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"10,966,605.65",30-Jun-23,24.098535,2.657824514,23.2067,3.878272918,,,,,,20.1,,None,,0QO3
+CHC-AU,CHC,CHARTER HALL GROUP STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"10,180,919.36",30-Jun-23,12.56234601,1.755385973,-68.8246,6.730073121,,,,,,10.8,,None,,0QQ2
+BEN-AU,BEN,BENDIGO AND ADELAIDE BANK LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"10,800,666.60",30-Jun-23,23.34759036,2.369684612,0,6.661197536,,,,,,23.8,,None,,0RS9
+LTR-AU,LTR,LIONTOWN RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"10,542,954.36",30-Jun-23,-3.172124233,2.072593671,34.4314,3.498112537,,,,,,34,,None,,0RFB
+QUB-AU,QUB,QUBE HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"10,952,099.46",30-Jun-23,21.06102714,1.835722772,24.0963,1.210942671,,,,,,16.4,,None,,0Q5X
+IEL-AU,IEL,IDP EDUCATION PTY LTDINARY,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"11,088,315.96",30-Jun-23,22.13119116,2.969749431,38.4704,2.888738495,,,,,,14.5,,None,,MWQU
+JBH-AU,JBH,JB HI-FI LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"9,918,194.88",30-Jun-23,26.95371431,1.5766314,-3.4547,5.513235859,,,,,,15.2,,None,,0RD7
+ALU-AU,ALU,ALTIUM LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"12,031,260.45",30-Jun-23,33.20612371,1.7223582,26.7458,1.318205914,,,,,,17,,None,,0PFS
+ILU-AU,ILU,ILUKA RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"6,926,266.64",30-Jun-23,2.310186808,1.911928921,45.1314,2.370451881,,,,,,31.5,,None,,0RB6
+TNE-AU,TNE,TECHNOLOGY ONE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"8,547,138.60",30-Jun-23,13.3181456,2.553905021,0,7.398457302,,,,,,17.5,,None,,0QE1
+CGF-AU,CGF,CHALLENGER LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"8,131,951.54",30-Jun-23,24.22902792,1.790834352,401.1771,4.75650625,,,,,,19.7,,None,,0QPX
+REH-AU,REH,REECE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"8,579,205.42",30-Jun-23,7.549985097,2.358427506,18.61,4.299434469,,,,,,23.9,,None,,0Q7A
+SVW-AU,SVW,SEVEN GROUP HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"8,670,826.44",30-Jun-23,12.18618572,2.101894166,-31.2325,7.244183897,,,,,,23.6,,None,,0Q9V
+VUK-AU,VUK,VIRGIN MONEY UK CDI PLC,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"7,658,289.45",30-Jun-23,34.59618674,2.112547541,0,3.68240255,,,,,,18.5,,None,,MY7O
+NHF-AU,NHF,NIB HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"7,986,276.65",30-Jun-23,23.55137627,1.888854448,50.1951,4.636657827,,,,,,19.2,,None,,0PZT
+BOQ-AU,BOQ,BANK OF QUEENSLAND LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"7,913,415.26",30-Jun-23,38.32657871,1.898901945,0,4.113840502,,,,,,21.9,,None,,0QKY
+FLT-AU,FLT,FLIGHT CENTRE TRAVEL GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"7,553,977.08",30-Jun-23,27.80763635,1.960406522,142.9363,5.997865918,,,,,,21.2,,None,,0R65
+FPH-AU,FPH,FISHER AND PAYKEL HEALTHCARE CORPO,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"6,770,740.69",30-Jun-23,-1.125275073,2.515879302,-34.2958,5.66213218,,,,,,24,,None,,0R5X
+A2M-AU,A2M,THE A2 MILK COMPANY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"6,939,713.27",30-Jun-23,19.15168314,1.826844761,13.422,3.037662001,,,,,,32.8,,None,,#N/A
+MTS-AU,MTS,METCASH LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"7,213,703.05",30-Jun-23,30.87789405,2.129981596,9.1758,4.742296944,,,,,,15.4,,None,,0PWF
+CNU-AU,CNU,CHORUS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"6,563,813.34",30-Jun-23,28.83535132,1.263948487,1.6877,5.849611029,,,,,,25.4,,None,,0QY5
+PME-AU,PME,PRO MEDICUS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"7,480,002.88",30-Jun-23,20.79088665,1.298016161,37.1324,5.049823668,,,,,,20,,None,,0Q58
+SQ2-AU,SQ2,BLOCK INC CDI,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"5,131,327.74",30-Jun-23,12.01487915,1.962013844,-348.8658,5.30013714,,,,,,19.8,,None,,LVJC
+AWC-AU,AWC,ALUMINA LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"5,383,959.84",30-Jun-23,14.4131256,1.831810223,11.2781,3.154879251,,,,,,30,,None,,0PFW
+AMP-AU,AMP,AMP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"7,370,932.44",30-Jun-23,32.68878425,1.827981252,3473.3333,2.730091484,,,1.4,10.5,12.1,24,4,None,,0PG8
+RWC-AU,RWC,RELIANCE WORLDWIDE CORPORATION LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"6,468,312.69",30-Jun-23,14.32199811,1.898764629,1.0808,5.128872335,,,,,,26.2,,None,,N5EO
+DMP-AU,DMP,DOMINOS PIZZA ENTERPRISES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"6,926,181.43",30-Jun-23,13.91810539,1.307526061,-23.1888,4.674932831,,,,,,27.1,,None,,0R26
+NEC-AU,NEC,NINE ENTERTAINMENT CO HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"5,946,398.75",30-Jun-23,18.59255983,1.52759741,-19.6197,3.771823207,,,,,,16.4,,None,,JY3V
+ANN-AU,ANN,ANSELL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"6,016,164.00",30-Jun-23,35.4705529,1.805592072,-16.9952,4.918419886,,,,,,15.4,,None,,0PGI
+DOW-AU,DOW,DOWNER EDI LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"5,615,177.36",30-Jun-23,38.17495592,2.167947092,19.9502,4.679454789,,,,,,36.9,,None,,0R29
+WEB-AU,WEB,WEBJET LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"5,774,514.27",30-Jun-23,24.71143647,2.617252465,190.1785,5.657842412,,,,,,26,,None,,0QI5
+SFR-AU,SFR,SANDFIRE RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"5,831,081.19",30-Jun-23,10.65960772,2.057057173,-105.957,5.69859053,,,,,,32.1,,None,,0Q9A
+ORA-AU,ORA,ORORA LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"6,049,996.48",30-Jun-23,3.928641922,1.801950468,12.2591,4.754132184,,,,,,21.6,,None,,KGLH
+RGN-AU,RGN,REGION GROUP STAPLED UNITS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"5,066,892.98",30-Jun-23,30.93937978,3.476711016,3.2857,1.730909387,,,,,,15.8,,None,,I0ZU
+TLX-AU,TLX,TELIX PHARMACEUTICALS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"5,345,175.60",30-Jun-23,33.34468248,1.257029966,9.9289,2.636088017,,,,,,28.7,,None,,OB0D
+NSR-AU,NSR,NATIONAL STORAGE REIT STAPLED UNIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"5,688,173.66",30-Jun-23,8.291218793,2.041810996,22.7166,3.348820454,,,,,,15,,None,,#N/A
+NHC-AU,NHC,NEW HOPE CORPORATION LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"5,955,044.76",30-Jun-23,20.53148814,2.67157041,14.3634,5.059323181,,,,,,49.1,,None,,0PZF
+PPT-AU,PPT,PERPETUAL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"4,898,367.96",30-Jun-23,26.42607122,1.702234913,-5.3169,5.300471096,,,,,,22.5,,None,,0Q3I
+CLW-AU,CLW,CHARTER HALL LONG WALE REIT STAPLE,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"4,643,036.28",30-Jun-23,23.91739679,2.195458966,-83.961,4.651584041,,,,,,12.3,,None,,NKVS
+CSR-AU,CSR,CSR LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"5,697,320.86",30-Jun-23,22.9536163,2.441760191,-2.6963,3.635912576,,,,,,,,,,0R0Y
+CTD-AU,CTD,CORPORATE TRAVEL MANAGEMENT LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"4,926,584.00",30-Jun-23,31.91474603,1.806339835,2996.7832,1.210585826,,,,,,,,,,0R05
+AUB-AU,AUB,AUB GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"5,599,658.40",30-Jun-23,28.29955047,2.411598849,85.0718,7.061030029,,,,,,,,,,0PK6
+BPT-AU,BPT,BEACH ENERGY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"4,974,981.24",30-Jun-23,28.33772998,2.155095628,-23.8982,4.407347457,,,,,,,,,,0QLC
+APE-AU,APE,EAGERS AUTOMOTIVE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"4,983,840.31",30-Jun-23,6.897527284,2.020914747,-1.3008,0.878161128,,,,,,,,,,0P8N
+TAH-AU,TAH,TABCORP HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"4,705,569.80",30-Jun-23,31.60325166,2.72054314,259.5988,8.780600259,,,,,,,,,,0QDH
+PRU-AU,PRU,PERSEUS MINING LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"4,952,462.24",30-Jun-23,17.75323231,1.995208538,107.5521,4.653726786,,,,,,,,,,0Q3J
+SGM-AU,SGM,SIMS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"4,898,555.60",30-Jun-23,18.49278339,1.691012089,-95.9139,3.731356227,,,,,,,,,,0QAK
+HVN-AU,HVN,HARVEY NORMAN HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"5,025,537.04",30-Jun-23,15.0474382,1.85869804,-23.1277,4.545570216,,,,,,,,,,0R9K
+ARB-AU,ARB,ARB CORPORATION LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"5,354,722.29",30-Jun-23,24.52969776,1.462003138,-26.6297,3.523568959,,,,,,,,,,0PH4
+CIA-AU,CIA,CHAMPION IRON LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"4,586,101.80",30-Jun-23,12.92224484,2.09713473,-57.7318,7.154944225,,,,,,,,,,0PV1
+BKW-AU,BKW,BRICKWORKS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"4,692,647.38",30-Jun-23,23.83186731,1.623759506,27.6262,5.722977478,,,,,,,,,,0QN7
+PMV-AU,PMV,PREMIER INVESTMENTS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"5,199,732.50",30-Jun-23,10.99858307,2.116570229,1.7083,3.908128409,,,,,,,,,,0Q4X
+BRG-AU,BRG,BREVILLE GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"4,991,086.38",30-Jun-23,6.09074754,2.088347994,9.2249,3.87985417,,,,,,,,,,0QN6
+HUB-AU,HUB,HUB24 LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"5,088,348.51",30-Jun-23,32.70158071,1.857688298,0,3.399088887,,,,,,,,,,JROM
+TPG-AU,TPG,TPG TELECOM LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"4,838,685.42",30-Jun-23,10.71520021,2.649318768,15.3558,1.655693087,,,,,,,,,,R5KL
+BAP-AU,BAP,BAPCOR LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"4,567,779.36",30-Jun-23,20.39514528,2.533034185,-10.3441,3.838337085,,,,,,,,,,KCDR
+VEA-AU,VEA,VIVA ENERGY GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"4,257,991.76",30-Jun-23,18.34142805,1.500569841,79.3478,2.413391404,,,,,,,,,,PA5O
+CHN-AU,CHN,CHALICE MINING LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,451,897.26",30-Jun-23,30.175052,2.149035744,-6.5925,2.935086403,,,,,,,,,,0QPT
+NUF-AU,NUF,NUFARM LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,810,044.16",30-Jun-23,28.24182676,2.279719413,0,7.829773733,,,,,,,,,,0Q0M
+PDN-AU,PDN,PALADIN ENERGY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"4,624,430.16",30-Jun-23,29.96356612,2.446700546,23.3674,5.393749369,,,,,,,,,,0Q2K
+DRR-AU,DRR,DETERRA ROYALTIES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,724,995.40",30-Jun-23,28.23750662,2.57725543,-14.605,5.501200291,,,,,,,,,,WEN6
+SUL-AU,SUL,SUPER RETAIL GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"4,144,795.38",30-Jun-23,21.33629142,2.451302511,8.5728,5.74995759,,,,,,,,,,0QD3
+IFL-AU,IFL,INSIGNIA FINANCIAL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"3,450,179.88",30-Jun-23,17.43528271,2.911654571,13.9893,3.514839394,,,,,,,,,,0RCM
+CQR-AU,CQR,CHARTER HALL RETAIL UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"3,583,500.80",30-Jun-23,12.5637221,2.040452785,-60.8503,3.887369321,,,,,,,,,,0QQ4
+IPH-AU,IPH,IPH LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"3,655,273.25",30-Jun-23,24.8478093,1.80911351,24.7043,6.80612398,,,,,,,,,,KYKN
+IRE-AU,IRE,IRESS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"2,570,331.90",30-Jun-23,15.7910391,1.858635468,5.8735,5.743156054,,,,,,,,,,0RCP
+DEG-AU,DEG,DE GREY MINING LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,874,824.54",30-Jun-23,16.64520886,1.162848813,-113.5311,3.83834995,,,,,,,,,,0R1F
+HDN-AU,HDN,HOMECO DAILY NEEDS UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"3,764,883.35",30-Jun-23,15.59437159,2.492215725,86.6118,2.995910142,,,,,,,,,,H7KU
+GNC-AU,GNC,GRAINCORP CLASS A LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"3,620,528.56",30-Jun-23,13.45774984,2.406482316,77.54404432,2.859128149,,,,,,,,,,0R8L
+BWP-AU,BWP,BWP TRUST,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"3,531,729.60",30-Jun-23,3.58940996,2.374063199,1.3979,3.679583724,,,,,,,,,,0QNU
+AIA-AU,AIA,AUCKLAND INTERNATIONAL AIRPORT LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"3,485,720.25",30-Jun-23,32.67983587,2.077131021,573.421,4.919486362,,,,,,,,,,0PJK
+GOR-AU,GOR,GOLD ROAD RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,650,582.22",30-Jun-23,8.68522573,2.303924226,76.9263,2.727940753,,,,,,,,,,0R84
+CIP-AU,CIP,CENTURIA INDUSTR UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"3,369,775.11",30-Jun-23,19.33210288,1.911972268,11.0722,2.583820015,,,,,,,,,,I3CQ
+WPR-AU,WPR,WAYPOINT REIT STAPLED UNIT LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"3,437,489.16",30-Jun-23,20.40324796,1.956521138,-6.2908,1.132897397,,,,,,,,,,NCUZ
+PNI-AU,PNI,PINNACLE INVESTMENT MANAGEMENT GRO,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"3,104,154.00",30-Jun-23,15.41744157,2.014606071,-24.3609,3.449045541,,,,,,,,,,0QJ1
+CMM-AU,CMM,CAPRICORN METALS LTD DEF,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,082,718.44",30-Jun-23,19.22617837,1.663310103,-59.9215,5.124780557,,,,,,,,,,0PV0
+NIC-AU,NIC,NICKEL INDUSTRIES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,209,190.75",30-Jun-23,6.59198773,1.815161934,33.19,4.917858156,,,,,,,,,,PGQ9
+HLS-AU,HLS,HEALIUS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"3,061,817.10",30-Jun-23,0.790302844,2.431037091,-79.7481,3.523490269,,,,,,,,,,0Q50
+IVC-AU,IVC,INVOCARE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"3,479,057.60",30-Jun-23,1.831293411,1.975392963,-6.3349,3.391731884,,,,,,,,,,0RCK
+LIC-AU,LIC,LIFESTYLE COMMUNITIES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"3,218,032.86",30-Jun-23,10.74659273,2.527709418,-2.4637,6.134217497,,,,,,,,,,0RF4
+VNT-AU,VNT,VENTIA SERVICES GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"3,071,052.46",30-Jun-23,19.97274573,1.994521117,124.3315,4.158770814,,,,,,,,,,L1EA
+BGL-AU,BGL,BELLEVUE GOLD LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,492,480.27",30-Jun-23,5.763062453,1.99147224,-48.4931,1.85142303,,,,,,,,,,0R2D
+MP1-AU,MP1,MEGAPORT LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"3,692,993.08",30-Jun-23,32.53287852,2.627324733,57.1733,2.575440716,,,,,,,,,,E36S
+PXA-AU,PXA,PEXA GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"2,892,186.57",30-Jun-23,19.64570879,1.772348077,-85.1022,6.612189044,,,,,,,,,,T00X
+360-AU,360,LIFE360 INC. CDI INC,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"3,620,211.70",30-Jun-23,18.60205533,2.20749577,-254.3163,3.730316266,,,,,,,,,,QBD3
+CCP-AU,CCP,CREDIT CORP GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"2,794,221.60",30-Jun-23,18.08879225,2.393249312,14.59012875,4.628409744,,,,,,,,,,0R0K
+INA-AU,INA,INGENIA COMMUNITIES GROUP STAPLED,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"3,012,801.24",30-Jun-23,12.98887918,2.404170514,-4.6662,4.814620987,,,,,,,,,,GQKD
+CGC-AU,CGC,COSTA GROUP HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"2,845,560.48",30-Jun-23,10.01793855,2.063138926,-9.7518,0.613501738,,,,,,,,,,MKAV
+SGR-AU,SGR,THE STAR ENTERTAINMENT GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"2,684,582.46",30-Jun-23,23.04334923,1.923382945,1020.2531,5.886431884,,,,,,,,,,0R2Y
+AVZ-AU,AVZ,AVZ MINERALS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"2,599,636.74",30-Jun-23,17.82886238,1.170874539,35.9233,4.588993872,,,,,,,,,,0QKN
+KLS-AU,KLS,KELSIAN GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"2,784,931.50",30-Jun-23,27.11961107,1.84435005,-2.4923,5.165674412,,,,,,,,,,JV1K
+GUD-AU,GUD,GUD HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"3,393,712.56",30-Jun-23,29.86002559,2.104562755,22.2871,6.025010939,,,,,,,,,,0R6P
+BLD-AU,BLD,BORAL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"3,372,584.82",30-Jun-23,14.99279937,1.922273969,171.2239,4.671190147,,,,,,,,,,0QMN
+RRL-AU,RRL,REGIS RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"2,342,655.92",30-Jun-23,26.55277125,2.467924736,-97.0232,6.749470601,,,,,,,,,,0Q7I
+CRN-AU,CRN,CORONADO GLOBAL RESOURCES CDI INC,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"2,715,497.40",30-Jun-23,19.44980682,1.64418023,243.4179,5.308003916,,,,,,,,,,PPGV
+LOV-AU,LOV,LOVISA HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"2,952,855.84",30-Jun-23,29.36781345,1.856591321,32.208,2.085272175,,,,,,,,,,M0TT
+ARF-AU,ARF,ARENA REIT STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"2,617,568.30",30-Jun-23,8.5266106,2.539299285,12.4892,3.799359859,,,,,,,,,,KGJZ
+UMG-AU,UMG,UNITED MALT GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"2,822,252.45",30-Jun-23,24.79128588,1.673835912,49.96869657,5.788887723,,,,,,,,,,R0NU
+MFG-AU,MFG,MAGELLAN FINANCIAL GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"2,692,789.44",30-Jun-23,15.26857046,1.979574027,-28.4818,4.446680779,,,,,,,,,,0PUO
+EVT-AU,EVT,EVT LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"2,607,634.83",30-Jun-23,-3.406771302,2.330379251,460.4852,5.874716852,,,,,,,,,,0PFZ
+HMC-AU,HMC,HMC CAPITAL LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"2,602,991.92",30-Jun-23,31.42138326,1.592886713,-73.3698,4.25753869,,,,,,,,,,WP8U
+MND-AU,MND,MONADELPHOUS GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"2,788,424.80",30-Jun-23,31.83991295,2.394043557,-5.6043,3.685425187,,,,,,,,,,0PXQ
+NAN-AU,NAN,NANOSONICS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"2,258,197.20",30-Jun-23,19.94023644,2.635070399,866.5399,7.249786521,,,,,,,,,,0PYX
+FBU-AU,FBU,FLETCHER BUILDING LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"2,252,274.05",30-Jun-23,14.95794695,2.244054734,3.4578,5.86878137,,,,,,,,,,0R63
+CXO-AU,CXO,CORE LITHIUM LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"1,564,679.72",30-Jun-23,25.21644457,2.112901603,205.7028,3.36542761,,,,,,,,,,0R03
+KAR-AU,KAR,KAROON ENERGY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Energy,,,,,ASXStock,"2,562,428.68",30-Jun-23,18.39884074,1.925328074,58.4329,1.653004665,,,,,,,,,,0RDO
+NWL-AU,NWL,NETWEALTH GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Financials,,,,,ASXStock,"2,489,556.72",30-Jun-23,5.997518544,1.401232992,18.1651,4.012081287,,,,,,,,,,OB9S
+CNI-AU,CNI,CENTURIA CAPITAL STAPLED UNITS,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"2,026,915.20",30-Jun-23,1.454932039,2.483924134,-2.2915,3.919777663,,,,,,,,,,0QPN
+NWH-AU,NWH,NRW HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"2,444,243.08",30-Jun-23,29.52455484,1.638229819,18.0573,6.235901362,,,,,,,,,,0Q0G
+SYA-AU,SYA,SAYONA MINING LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"2,000,561.88",30-Jun-23,8.89207633,2.373318108,-18.8665,3.753116904,,,,,,,,,,0R1U
+ELD-AU,ELD,ELDERS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"2,105,565.84",30-Jun-23,8.330450357,1.648969746,26.16928851,4.701844086,,,,,,,,,,0R37
+SPK-AU,SPK,SPARK NEW ZEALAND LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"2,242,660.88",30-Jun-23,24.26675195,1.384979672,101.2658,5.411579721,,,,,,,,,,0QE3
+ASK-AU,ASK,ABACUS PROPERTY GROUP STAPLED UNIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"1,012,015.62",30-Jun-23,24.44191314,2.544450895,27.552263,6.866322756,,,,,,,,,,ATVU6
+PNV-AU,PNV,POLYNOVO LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"2,088,576.30",30-Jun-23,18.67804026,2.625143865,-1043.0192,5.087594942,,,,,,,,,,0QO2
+CKF-AU,CKF,COLLINS FOODS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"2,176,914.19",30-Jun-23,7.221190361,1.555802186,-55.0218,6.892970073,,,,,,,,,,0QZ6
+SLR-AU,SLR,SILVER LAKE RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"1,686,191.50",30-Jun-23,5.536717996,2.423678448,-45.9845,4.27943268,,,,,,,,,,0QAG
+DHG-AU,DHG,DOMAIN HOLDINGS AUSTRALIA LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"1,931,658.36",30-Jun-23,31.96301011,1.678462457,-9.7498,4.262197323,,,,,,,,,,OB4H
+ING-AU,ING,INGHAMS GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"2,606,299.65",30-Jun-23,30.54407665,1.511391179,50.8048,2.500694179,,,,,,,,,,NKFN
+CQE-AU,CQE,CHARTER HALL SOCIAL INFRASTRUCTURE,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"1,882,499.24",30-Jun-23,16.92354468,1.442733249,-20.9796,5.180421151,,,,,,,,,,0PKL
+JLG-AU,JLG,JOHNS LYNG GROUP LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"2,081,165.73",30-Jun-23,15.39628871,2.510918557,40.0936,5.818356369,,,,,,,,,,O9SV
+NWS-AU,NWS,NEWS CORPORATION CLASS B VOTING CD,Growth,Australian Shares,Australian Shares,Australian Shares,Communication,,,,,ASXStock,"2,249,734.90",30-Jun-23,23.7915514,2.281684109,-28.4994,2.456514992,,,,,,,,,,K41X
+BGA-AU,BGA,BEGA CHEESE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples,,,,,ASXStock,"1,935,567.13",30-Jun-23,6.955240901,2.212144459,-82.3884,-0.089264026,,,,,,,,,,0QLG
+WAF-AU,WAF,WEST AFRICAN RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"1,767,415.20",30-Jun-23,24.98726512,2.525161496,-33.2204,4.756237258,,,,,,,,,,0QIC
+GOZ-AU,GOZ,GROWTHPOINT PROPERTIES AUSTRALIA R,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"1,414,993.30",30-Jun-23,6.555499146,0.556692845,4.4608,6.800220802,,,,,,,,,,0R90
+LNK-AU,LNK,LINK ADMINISTRATION HLDG PTY LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials,,,,,ASXStock,"1,404,512.80",30-Jun-23,10.86558335,2.529297507,102.9618,3.016803337,,,,,,,,,,MUME
+CMW-AU,CMW,CROMWELL PROPERTY GROUP STAPLED UN,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"1,403,047.87",30-Jun-23,30.12977028,1.301883706,-47.0813,4.942622314,,,,,,,,,,0R0Q
+IMU-AU,IMU,IMUGENE LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care,,,,,ASXStock,"889,020.56",30-Jun-23,33.62362385,1.816099443,-4.8068,5.387802797,,,,,,,,,,0RBG
+BRN-AU,BRN,BRAINCHIP HOLDINGS LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology,,,,,ASXStock,"1,022,235.83",30-Jun-23,8.072457723,2.545588173,-12.5021,3.900454689,,,,,,,,,,0QKS
+SYR-AU,SYR,SYRAH RESOURCES LTD,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"711,752.54",30-Jun-23,2.731029746,2.444167171,24.4256,2.351910805,,,,,,,,,,0QDG
+LKE-AU,LKE,LAKE RESOURCES,Growth,Australian Shares,Australian Shares,Australian Shares,Materials,,,,,ASXStock,"688,972.59",30-Jun-23,18.67551219,2.009944951,-333.3011,4.456870512,,,,,,,,,,0REK
+ABG-AU,ABG,Abacus Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate,,,,,ASXStock,"284,000.00",30-Jun-23,23.68156898,2.226705315,-31.8628,0.474940198,,,,,,,,,,0P8S
+TRS-AU,TRS,The Reject Shop Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary,,,,,ASXStock,"203,000.00",30-Jun-23,13.0944454,1.585169311,-5.7238,2.544297482,,,12,13,14,15,16,,,#N/A
