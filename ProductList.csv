@@ -23,7 +23,7 @@ IHHY-AU,,iShares Global High Yield Bond (hedged) ETF,Defensive,Long Duration,Glo
 IHEB-AU,,iShares USD EM Bond (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Global Bonds ,International Fixed Interest,ETF,4.5,,,,,,,,,NSHM,,,,,,,,,,,,,,,,,,
 ISEC-AU,,iShares Enhanced Cash ETF,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Domestic Cash,Cash,ETF,0.3,,,,,,,,,O0HC,,,,,,,,,,,,,,,,,,
 BILL-AU,,iShares Core Cash ETF,Defensive,Cash,Cash,Cash,ETF Index,,,Domestic Cash,Cash,ETF,0.15,,,,,,,,,O0HD,,,,,,,,,,,,,,,,,,
-AUD,,Bank Account,Defensive,Cash,Cash,Cash,ETF Index,,,Domestic Cash,Cash,Acc,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AUD,,Bank Account,Defensive,Cash,Cash,Cash,ASXStock,,,Domestic Cash,Cash,ASXStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 HOW2217AU,,Merlon Concentrated Australian Share Fund,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Large Blend Equity,Australian Equities,MF,,,,,,,,,,PJL7,,,,,,,,,,,,,,,,,,
 SCH0101AU,,Schroder Australian Equity Fund W Class,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Large Blend Equity,Australian Equities,MF,,,,,,,,,,EOU3,,,,,,,,,,,,,,,,,,
 AAP5529AU,,Ausbil Australian SmallCap Fund,Growth,Australian Shares,Australian Shares,Australian Shares,Active Manager,,,Australia Mid Small Blend Equity,Australian Equities - Small Cap,MF,,,,,,,,,,R2JU,,,,,,,,,,,,,,,,,,
