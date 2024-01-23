@@ -1,14 +1,14 @@
-﻿AccountCode,Name,Platform Availability,Manager Fee
-Atchison55ACTIVE,Atchison Active 55 SMA,"EDGE, HUB24",0.401
-Atchison55ETF,Atchison Dynamic ETF 55 SMA,EDGE,0.351
-Atchison70ACTIVE,Atchison Active 70 SMA,"EDGE, HUB24",0.401
-Atchison70ETF,Atchison Dynamic ETF 70 SMA,EDGE,0.351
-AtchisonAusShares,Atchison Active Australian Shares SMA,EDGE,0.401
-AtchisonIntShares,Atchison Active International Shares SMA,EDGE,0.401
-AtchisonRealAssets,Atchison Active Real Assets SMA,EDGE,0.401
-AtchisonAlts,Atchison Active Alternatives SMA,EDGE,0.401
-AtchisonLongDuration,Atchison Active Long Duration SMA,EDGE,0.401
-AtchisonFloatingRate,Atchison Active Floating Rate SMA,EDGE,0.401
-RAJOMON90,Rajomon Growth Fund,Direct,1.2
-BON032(Full),Bongiornos Balanced DIV (Full),Panorama,0
-BON032(Blackrock),Bongiornos Balanced DIV (Blackrock),Panorama,0
+﻿AccountCode,Name,Platform Availability,Manager Fee,BacktestInception,AccountInception
+Atchison55ACTIVE,Atchison Active 55 SMA,"EDGE, HUB24",0.401,30-Jun-19,31-Dec-23
+Atchison55ETF,Atchison Dynamic ETF 55 SMA,EDGE,0.351,30-Jun-19,31-Dec-23
+Atchison70ACTIVE,Atchison Active 70 SMA,"EDGE, HUB24",0.401,30-Jun-19,31-Dec-23
+Atchison70ETF,Atchison Dynamic ETF 70 SMA,EDGE,0.351,30-Jun-19,31-Dec-23
+AtchisonAusShares,Atchison Active Australian Shares SMA,EDGE,0.401,30-Jun-19,31-Dec-23
+AtchisonIntShares,Atchison Active International Shares SMA,EDGE,0.401,30-Jun-19,31-Dec-23
+AtchisonRealAssets,Atchison Active Real Assets SMA,EDGE,0.401,30-Jun-19,31-Dec-23
+AtchisonAlts,Atchison Active Alternatives SMA,EDGE,0.401,30-Jun-19,31-Dec-23
+AtchisonLongDuration,Atchison Active Long Duration SMA,EDGE,0.401,30-Jun-19,31-Dec-23
+AtchisonFloatingRate,Atchison Active Floating Rate SMA,EDGE,0.401,30-Jun-19,31-Dec-23
+RAJOMON90,Rajomon Growth Fund,Direct,1.2,,
+BON032(Full),Bongiornos Balanced DIV (Full),Panorama,0,,
+BON032(Blackrock),Bongiornos Balanced DIV (Blackrock),Panorama,0,,
