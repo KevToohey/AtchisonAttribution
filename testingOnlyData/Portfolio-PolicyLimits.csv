@@ -1,0 +1,24 @@
+PortfolioCode,Date,Group,GroupValue,Min,Max
+,,,,,
+Atchison70ACTIVE,30-Jun-20,G1,Australian Shares,18,35
+Atchison70ACTIVE,30-Jun-20,G1,International Shares,15,35
+Atchison70ACTIVE,30-Jun-20,G1,Real Assets,10,15
+Atchison70ACTIVE,30-Jun-20,G1,Alternatives,10,15
+Atchison70ACTIVE,30-Jun-20,G1,Long Duration,5,25
+Atchison70ACTIVE,30-Jun-20,G1,Floating Rate,2,20
+Atchison70ACTIVE,30-Jun-20,G1,Cash,2,10
+,,,,,
+Atchison70ACTIVE,30-Jun-20,G2,Australian Shares,20,45
+Atchison70ACTIVE,30-Jun-20,G2,Global Shares,14,45
+Atchison70ACTIVE,30-Jun-20,G2,Alternatives,0,35
+Atchison70ACTIVE,30-Jun-20,G2,Australian Fixed Interest,0,50
+Atchison70ACTIVE,30-Jun-20,G2,Global Fixed Interest,0,50
+Atchison70ACTIVE,30-Jun-20,G2,Cash,1,12
+,,,,,
+Atchison70ACTIVE,30-Jun-20,G3,Australian Shares,20,45
+Atchison70ACTIVE,30-Jun-20,G3,Global Shares,14,50
+Atchison70ACTIVE,30-Jun-20,G3,Alternatives (Growth),0,35
+Atchison70ACTIVE,30-Jun-20,G3,Australian Fixed Interest,0,50
+Atchison70ACTIVE,30-Jun-20,G3,Global Fixed Interest,0,50
+Atchison70ACTIVE,30-Jun-20,G3,Alternatives (Defensive),0,30
+Atchison70ACTIVE,30-Jun-20,G3,Cash,1,15
