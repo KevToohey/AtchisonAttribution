@@ -9,6 +9,6 @@ AtchisonRealAssets,Atchison Active Real Assets SMA,Real Assets,RebateAtchison,ED
 AtchisonAlts,Atchison Active Alternatives SMA,Alternatives,RebateAtchison,EDGE,0.401,30-Jun-19,31-Dec-22
 AtchisonLongDuration,Atchison Active Long Duration SMA,Long Duration,RebateAtchison,EDGE,0.401,30-Jun-19,31-Dec-22
 AtchisonFloatingRate,Atchison Active Floating Rate SMA,Floating Rate,RebateAtchison,EDGE,0.401,30-Jun-19,31-Dec-22
-RAJOMON90,Rajomon Growth Fund,Multi Asset,,Direct,1.2,,
-BON032(Full),Bongiornos Balanced DIV (Full),Multi Asset,,Panorama,0,,
-BON032(Blackrock),Bongiornos Balanced DIV (Blackrock),Multi Asset,,Panorama,0,,
+RAJOMON90,Rajomon Growth Fund,Multi Asset,,Direct,1.2,30-Jun-19,31-Dec-22
+BON032(Full),Bongiornos Balanced DIV (Full),Multi Asset,,Panorama,0,30-Jun-19,16-Feb-23
+BON032(Blackrock),Bongiornos Balanced DIV (Blackrock),Multi Asset,,Panorama,0,30-Jun-19,16-Feb-23
