@@ -1,15 +1,15 @@
-﻿AccountCode,Name,ReportGroup,RebateGrouping,Platform Availability,Manager Fee,BacktestInception,AccountInception
-Atchison55ACTIVE,Atchison Active 55 SMA,Multi Asset,RebateAtchison,"EDGE, HUB24",0.401,30-Jun-19,31-Dec-22
-Atchison55ETF,Atchison Dynamic ETF 55 SMA,Multi Asset,RebateAtchison,EDGE,0.351,30-Jun-19,31-Dec-22
-Atchison70ACTIVE,Atchison Active 70 SMA,Multi Asset,RebateAtchison,"EDGE, HUB24",0.401,30-Jun-19,31-Dec-22
-Atchison70ETF,Atchison Dynamic ETF 70 SMA,Multi Asset,RebateAtchison,EDGE,0.351,30-Jun-19,31-Dec-22
-AtchisonAusShares,Atchison Active Australian Shares SMA,Australian Shares,RebateAtchison,EDGE,0.401,30-Jun-19,31-Dec-22
-AtchisonIntShares,Atchison Active International Shares SMA,International Shares,RebateAtchison,EDGE,0.401,30-Jun-19,31-Dec-22
-AtchisonRealAssets,Atchison Active Real Assets SMA,Real Assets,RebateAtchison,EDGE,0.401,30-Jun-19,31-Dec-22
-AtchisonAlts,Atchison Active Alternatives SMA,Alternatives,RebateAtchison,EDGE,0.401,30-Jun-19,31-Dec-22
-AtchisonLongDuration,Atchison Active Long Duration SMA,Long Duration,RebateAtchison,EDGE,0.401,30-Jun-19,31-Dec-22
-AtchisonFloatingRate,Atchison Active Floating Rate SMA,Floating Rate,RebateAtchison,EDGE,0.401,30-Jun-19,31-Dec-22
-RAJOMON90,Rajomon Growth Fund,Multi Asset,,Direct,1.2,30-Jun-19,31-Dec-22
-BON032(Full),Bongiornos Balanced DIV (Full),Multi Asset,,Panorama,0,30-Jun-19,16-Feb-23
-BON032(Blackrock),Bongiornos Balanced DIV (Blackrock),Multi Asset,,Panorama,0,30-Jun-19,16-Feb-23
-PMPWealthBal,PMP Wealth Balanced Fund,Multi Asset,,,,31-Dec-18,31-Dec-18
+﻿AccountCode,Name,ReportGroup,ClientGrouping,Platform Availability,Manager Fee,BacktestInception,AccountInception
+Atchison55ACTIVE,Atchison Active 55 SMA,Multi Asset,Atchison,"EDGE, HUB24",0.401,30-Jun-19,31-Dec-22
+Atchison55ETF,Atchison Dynamic ETF 55 SMA,Multi Asset,Atchison,EDGE,0.351,30-Jun-19,31-Dec-22
+Atchison70ACTIVE,Atchison Active 70 SMA,Multi Asset,Atchison,"EDGE, HUB24",0.401,30-Jun-19,31-Dec-22
+Atchison70ETF,Atchison Dynamic ETF 70 SMA,Multi Asset,Atchison,EDGE,0.351,30-Jun-19,31-Dec-22
+AtchisonAusShares,Atchison Active Australian Shares SMA,Australian Shares,Atchison,EDGE,0.401,30-Jun-19,31-Dec-22
+AtchisonIntShares,Atchison Active International Shares SMA,International Shares,Atchison,EDGE,0.401,30-Jun-19,31-Dec-22
+AtchisonRealAssets,Atchison Active Real Assets SMA,Real Assets,Atchison,EDGE,0.401,30-Jun-19,31-Dec-22
+AtchisonAlts,Atchison Active Alternatives SMA,Alternatives,Atchison,EDGE,0.401,30-Jun-19,31-Dec-22
+AtchisonLongDuration,Atchison Active Long Duration SMA,Long Duration,Atchison,EDGE,0.401,30-Jun-19,31-Dec-22
+AtchisonFloatingRate,Atchison Active Floating Rate SMA,Floating Rate,Atchison,EDGE,0.401,30-Jun-19,31-Dec-22
+RAJOMON90,Rajomon Growth Fund,Multi Asset,Rajomon,Direct,1.2,30-Jun-19,31-Dec-22
+BON032(Full),Bongiornos Balanced DIV (Full),Multi Asset,Bongiorno,Panorama,0,30-Jun-19,16-Feb-23
+BON032(Blackrock),Bongiornos Balanced DIV (Blackrock),Multi Asset,Bongiorno,Panorama,0,30-Jun-19,16-Feb-23
+PMPWealthBal,PMP Wealth Balanced Fund,Multi Asset,PMP,,,31-Dec-18,31-Dec-18
