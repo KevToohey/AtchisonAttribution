@@ -319,8 +319,8 @@ Atchison70ACTIVE,31-Jul-23,Tactical,VEQ-AU,3.18129
 Atchison70ACTIVE,31-Jul-23,Tactical,ETL7377AU,10.235574
 Atchison70ACTIVE,31-Jul-23,Tactical,GSF6910AU,5.117787
 Atchison70ACTIVE,31-Jul-23,Tactical,PIM7802AU,2.558893
-Atchison70ACTIVE,31-Jul-23,Tactical,BLK4709AU,0.859808
-Atchison70ACTIVE,31-Jul-23,Tactical,BLK9419AU,1.719616
+Atchison70ACTIVE,31-Jul-23,Tactical,BLK4709AU,1.719616
+Atchison70ACTIVE,31-Jul-23,Tactical,BLK9419AU,0.859808
 Atchison70ACTIVE,31-Jul-23,Tactical,LAM0044AU,1.037389
 Atchison70ACTIVE,31-Jul-23,Tactical,TGP0016AU,0.345796
 Atchison70ACTIVE,31-Jul-23,Tactical,GPEQ-AU,0.5
@@ -648,8 +648,8 @@ Atchison55ACTIVE,31-Jul-23,Tactical,VEQ-AU,2.56271
 Atchison55ACTIVE,31-Jul-23,Tactical,ETL7377AU,8.24532
 Atchison55ACTIVE,31-Jul-23,Tactical,GSF6910AU,4.12266
 Atchison55ACTIVE,31-Jul-23,Tactical,PIM7802AU,2.06133
-Atchison55ACTIVE,31-Jul-23,Tactical,BLK4709AU,0.69262
-Atchison55ACTIVE,31-Jul-23,Tactical,BLK9419AU,1.38525
+Atchison55ACTIVE,31-Jul-23,Tactical,BLK4709AU,1.38525
+Atchison55ACTIVE,31-Jul-23,Tactical,BLK9419AU,0.69262
 Atchison55ACTIVE,31-Jul-23,Tactical,LAM0044AU,0.83567
 Atchison55ACTIVE,31-Jul-23,Tactical,TGP0016AU,0.27856
 Atchison55ACTIVE,31-Jul-23,Tactical,GPEQ-AU,0.40278
@@ -876,8 +876,8 @@ AtchisonRealAssets,31-Mar-23,Tactical,BLK4709AU,21.69803
 AtchisonRealAssets,31-Mar-23,Tactical,BLK9419AU,43.39606
 AtchisonRealAssets,31-Mar-23,Tactical,LAM0044AU,26.17944
 AtchisonRealAssets,31-Mar-23,Tactical,TGP0016AU,8.72647
-AtchisonRealAssets,31-Jul-23,Tactical,BLK4709AU,21.69803
-AtchisonRealAssets,31-Jul-23,Tactical,BLK9419AU,43.39606
+AtchisonRealAssets,31-Jul-23,Tactical,BLK4709AU,43.39606
+AtchisonRealAssets,31-Jul-23,Tactical,BLK9419AU,21.69803
 AtchisonRealAssets,31-Jul-23,Tactical,LAM0044AU,26.17944
 AtchisonRealAssets,31-Jul-23,Tactical,TGP0016AU,8.72647
 AtchisonRealAssets,1-Oct-23,Tactical,BLK4709AU,17.5
@@ -2843,8 +2843,8 @@ Atchison70ETF,30-Jun-19,Tactical,VEQ-AU,6
 Atchison70ETF,30-Jun-19,Tactical,IJP-AU,1.5
 Atchison70ETF,30-Jun-19,Tactical,VGAD-AU,6
 Atchison70ETF,30-Jun-19,Tactical,VAE-AU,6
-Atchison70ETF,30-Jun-19,Tactical,BLK4709AU,1.5
-Atchison70ETF,30-Jun-19,Tactical,BLK9419AU,2
+Atchison70ETF,30-Jun-19,Tactical,BLK4709AU,2
+Atchison70ETF,30-Jun-19,Tactical,BLK9419AU,1.5
 Atchison70ETF,30-Jun-19,Tactical,VBLD-AU,1.5
 Atchison70ETF,30-Jun-19,Tactical,IAF-AU,5
 Atchison70ETF,30-Jun-19,Tactical,AESG-AU,5
@@ -2871,8 +2871,8 @@ Atchison55ETF,30-Jun-19,Tactical,VEQ-AU,4.6
 Atchison55ETF,30-Jun-19,Tactical,IJP-AU,1.15
 Atchison55ETF,30-Jun-19,Tactical,VGAD-AU,4.6
 Atchison55ETF,30-Jun-19,Tactical,VAE-AU,4.6
-Atchison55ETF,30-Jun-19,Tactical,BLK4709AU,1.2
-Atchison55ETF,30-Jun-19,Tactical,BLK9419AU,1.6
+Atchison55ETF,30-Jun-19,Tactical,BLK4709AU,1.6
+Atchison55ETF,30-Jun-19,Tactical,BLK9419AU,1.2
 Atchison55ETF,30-Jun-19,Tactical,VBLD-AU,1.2
 Atchison55ETF,30-Jun-19,Tactical,IAF-AU,9
 Atchison55ETF,30-Jun-19,Tactical,AESG-AU,9
