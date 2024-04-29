@@ -1,7 +1,7 @@
 G1,Code
 Australian Shares,IOZ-AU
 International Shares,BM_IntShares_85DM15EM
-Real Assets,BM_RealAssets
+Real Assets,BM_AAPF_Total
 Alternatives,BM_Alts
 Long Duration,BM_Duration
 Floating Rate,BM_Floating
