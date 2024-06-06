@@ -1,8 +1,8 @@
-G1,Code
-Australian Shares,IOZ-AU
-International Shares,BM_IntShares_85DM15EM
-Real Assets,BM_RealAssets
-Alternatives,BM_Alts
-Long Duration,BM_Duration
-Floating Rate,BM_Floating
-Cash,BILL-AU
+G1,Code,Description
+Australian Shares,IOZ-AU,100% iShares Core S&P/ASX 200 ETF
+International Shares,BM_IntShares_85DM15EM,85% Vanguard MSCI Index International Shares ETF + 15% iShares MSCI Emerging Markets ETF
+Real Assets,BM_RealAssets,20% AMI Property - Australia Direct + 25% Vanguard Global Infrastructure Index ETF + 30% BlackRock iShares Global Listed Property Index + 25% Vanguard Global Infrastructure Index ETF
+Alternatives,BILL-AU,100% iShares Core Cash ETF
+Long Duration,BM_Duration,50% iShares Core Composite Bond ETF + 50% Vanguard International Fixed Income ETF
+Floating Rate,FLOT-AU,100% VanEck Australian Floating Rate ETF
+Cash,BILL-AU,100% iShares Core Cash ETF
